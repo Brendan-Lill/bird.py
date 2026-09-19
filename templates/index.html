@@ -8,9 +8,22 @@
 
 </head>
 <body>
-    <h1>Fly.py</h1>
-    <div id = "test"></div>
-    
+    <div class="headline-box">
+        <h1 class="page-title">Fly with Fly.py!</h1>
+    </div>
+    <div class="search-container">
+    <input type="text" class="search-bar" placeholder="Search...">
+    </div>
+    <div class="advanced-search-row">
+    <div class="advanced-box">
+        <label for="filter1">From</label>
+        <input type="text" id="filter1" placeholder="e.g. New York">
+    </div>
+    <div class="advanced-box">
+        <label for="filter2">To</label>
+        <input type="text" id="filter2" placeholder="e.g. Chicago">
+    </div>
+    </div>
      <script src="{{ url_for('static', filename='js/script.js') }}"></script>
 </body>
 </html>
