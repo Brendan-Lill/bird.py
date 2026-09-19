@@ -15,14 +15,22 @@
     <input type="text" class="search-bar" placeholder="Search...">
     </div>
     <div class="advanced-search-row">
-    <div class="advanced-box">
+
+    <form action="/search" method="post">
+        <div class="advanced-box">
         <label for="filter1">From</label>
-        <input type="text" id="filter1" placeholder="e.g. New York">
-    </div>
-    <div class="advanced-box">
+        <input name = "from_city" type="text" id="filter1" placeholder="e.g. New York">
+        </div>
+
+        <div class="advanced-box">
         <label for="filter2">To</label>
-        <input type="text" id="filter2" placeholder="e.g. Chicago">
-    </div>
+        <input name="to_city" type="text" id="filter2" placeholder="e.g. Chicago">
+        </div>
+
+        <button type="submit">SEARCH</button>
+    </form>
+    
+    
     </div>
      <script src="{{ url_for('static', filename='js/script.js') }}"></script>
 </body>
