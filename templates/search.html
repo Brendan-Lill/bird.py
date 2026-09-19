@@ -16,11 +16,21 @@
 <div class="results-page">
 
   <!-- Summary of what was searched, with a way back to modify it -->
+  {% set from_name = search.from_city.split('(')[0].strip() if search.from_city else "Anywhere" %}
+  {% set from_code = search.from_city.split('(')[-1].rstrip(')') if search.from_city and '(' in search.from_city else "" %}
+  {% set to_name = search.to_city.split('(')[0].strip() if search.to_city else "Anywhere" %}
+  {% set to_code = search.to_city.split('(')[-1].rstrip(')') if search.to_city and '(' in search.to_city else "" %}
   <div class="search-summary">
     <div class="summary-route">
-      <span class="summary-code">{{ search.from_city or "Anywhere" }}</span>
+      <div class="summary-point">
+        <span class="summary-code">{{ from_code or from_name }}</span>
+        {% if from_code %}<span class="summary-name">{{ from_name }}</span>{% endif %}
+      </div>
       <span class="summary-arrow">&rarr;</span>
-      <span class="summary-code">{{ search.to_city or "Anywhere" }}</span>
+      <div class="summary-point">
+        <span class="summary-code">{{ to_code or to_name }}</span>
+        {% if to_code %}<span class="summary-name">{{ to_name }}</span>{% endif %}
+      </div>
     </div>
     <div class="summary-details">
       {% if search.start_date or search.end_date %}
