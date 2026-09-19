@@ -19,13 +19,19 @@
   <div class="search-box">
 
     <div class="field-group">
-      <label for="filter1">From</label>
-      <input name="from_city" type="text" id="filter1" placeholder="e.g. New York">
+    <label for="filter1">From</label>
+    <div class="autocomplete-wrapper">
+        <input name="from_city" type="text" id="filter1" placeholder="e.g. Boston or BOS" autocomplete="off">
+        <div class="autocomplete-list" id="filter1List"></div>
+    </div>
     </div>
 
     <div class="field-group">
-      <label for="filter2">To</label>
-      <input name="to_city" type="text" id="filter2" placeholder="e.g. Chicago">
+    <label for="filter2">To</label>
+    <div class="autocomplete-wrapper">
+        <input name="to_city" type="text" id="filter2" placeholder="e.g. Chicago or ORD" autocomplete="off">
+        <div class="autocomplete-list" id="filter2List"></div>
+    </div>
     </div>
 
     <div class="field-group">
