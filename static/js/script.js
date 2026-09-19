@@ -94,6 +94,7 @@ function setupAutocomplete(inputId, listId) {
 }
 
 setupAutocomplete("filter1", "filter1List");
+<<<<<<< HEAD
 setupAutocomplete("filter2", "filter2List");
 // Sorts the ticket cards on the results page without a page reload.
 document.addEventListener("DOMContentLoaded", function () {
@@ -121,3 +122,6 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   });
 });
+=======
+setupAutocomplete("filter2", "filter2List");
+>>>>>>> eb32733763a6b6b0ae82ece341ba5ea4b455e827
