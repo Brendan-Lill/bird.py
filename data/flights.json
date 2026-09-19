@@ -61,10 +61,6 @@
           "speed_horizontal": 784.4,
           "speed_vertical": 0.0,
           "is_ground": false
-        },
-        "price": {
-          "currency": "USD",
-          "amount": 949.66
         }
       },
       "return_flight": {
@@ -112,11 +108,11 @@
           "icao": "A333",
           "icao24": "238A39"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 1043.83
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1686.81
       }
     },
     {
@@ -165,11 +161,7 @@
           "icao": "B738",
           "icao24": "B5BB68"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 385.77
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-21",
@@ -216,11 +208,11 @@
           "icao": "B38M",
           "icao24": "47FEB1"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 316.36
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 763.36
       }
     },
     {
@@ -269,11 +261,7 @@
           "icao": "B788",
           "icao24": "A6FCE4"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 693.15
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-25",
@@ -320,11 +308,11 @@
           "icao": "A321",
           "icao24": "345092"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 533.47
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1030.29
       }
     },
     {
@@ -373,11 +361,7 @@
           "icao": "A333",
           "icao24": "CE8038"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 440.43
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-25",
@@ -424,11 +408,11 @@
           "icao": "A321",
           "icao24": "84442E"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 412.73
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 852.57
       }
     },
     {
@@ -486,10 +470,6 @@
           "speed_horizontal": 794.9,
           "speed_vertical": 0.0,
           "is_ground": false
-        },
-        "price": {
-          "currency": "USD",
-          "amount": 1361.3
         }
       },
       "return_flight": {
@@ -537,11 +517,11 @@
           "icao": "A359",
           "icao24": "3AAF40"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 1135.15
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 2709.13
       }
     },
     {
@@ -590,11 +570,7 @@
           "icao": "B789",
           "icao24": "772A07"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 845.5
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-23",
@@ -641,11 +617,11 @@
           "icao": "B788",
           "icao24": "233C19"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 854.62
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1733.04
       }
     },
     {
@@ -703,10 +679,6 @@
           "speed_horizontal": 819.0,
           "speed_vertical": 0.0,
           "is_ground": false
-        },
-        "price": {
-          "currency": "USD",
-          "amount": 956.1
         }
       },
       "return_flight": {
@@ -754,11 +726,11 @@
           "icao": "A359",
           "icao24": "5D8CB7"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 867.36
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1884.69
       }
     },
     {
@@ -807,11 +779,7 @@
           "icao": "E75L",
           "icao24": "C15C0C"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 185.34
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-30",
@@ -858,11 +826,11 @@
           "icao": "A20N",
           "icao24": "8687F5"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 198.46
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 279.86
       }
     },
     {
@@ -911,11 +879,7 @@
           "icao": "B788",
           "icao24": "27C371"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 646.04
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-27",
@@ -962,11 +926,11 @@
           "icao": "A359",
           "icao24": "AAEF01"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 754.06
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1352.87
       }
     },
     {
@@ -1015,11 +979,7 @@
           "icao": "A333",
           "icao24": "684B27"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 927.01
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-26",
@@ -1073,11 +1033,11 @@
           "icao": "B789",
           "icao24": "2110AF"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 879.14
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 2416.7
       }
     },
     {
@@ -1126,11 +1086,7 @@
           "icao": "A333",
           "icao24": "68F812"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 1094.89
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-23",
@@ -1184,11 +1140,11 @@
           "icao": "A359",
           "icao24": "62C346"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 967.07
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1940.02
       }
     },
     {
@@ -1246,10 +1202,6 @@
           "speed_horizontal": 857.2,
           "speed_vertical": 0.0,
           "is_ground": false
-        },
-        "price": {
-          "currency": "USD",
-          "amount": 1476.56
         }
       },
       "return_flight": {
@@ -1304,11 +1256,11 @@
           "icao": "A359",
           "icao24": "ADADA1"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 1759.91
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 2828.61
       }
     },
     {
@@ -1366,10 +1318,6 @@
           "speed_horizontal": 901.0,
           "speed_vertical": 0.0,
           "is_ground": false
-        },
-        "price": {
-          "currency": "USD",
-          "amount": 1419.02
         }
       },
       "return_flight": {
@@ -1417,11 +1365,11 @@
           "icao": "B788",
           "icao24": "E026F9"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 1487.31
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 2381.75
       }
     },
     {
@@ -1470,11 +1418,7 @@
           "icao": "B788",
           "icao24": "681D06"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 271.2
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-25",
@@ -1521,11 +1465,11 @@
           "icao": "A333",
           "icao24": "CB1B82"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 279.33
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 533.48
       }
     },
     {
@@ -1574,11 +1518,7 @@
           "icao": "BCS3",
           "icao24": "996DAE"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 190.94
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-22",
@@ -1625,11 +1565,11 @@
           "icao": "A320",
           "icao24": "AC8053"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 151.05
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 261.75
       }
     },
     {
@@ -1687,10 +1627,6 @@
           "speed_horizontal": 913.3,
           "speed_vertical": 0.0,
           "is_ground": false
-        },
-        "price": {
-          "currency": "USD",
-          "amount": 927.72
         }
       },
       "return_flight": {
@@ -1738,11 +1674,11 @@
           "icao": "B788",
           "icao24": "76ABC0"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 872.29
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1696.95
       }
     },
     {
@@ -1791,11 +1727,7 @@
           "icao": "A20N",
           "icao24": "78F78E"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 575.46
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-23",
@@ -1842,11 +1774,11 @@
           "icao": "A333",
           "icao24": "142121"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 464.44
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 716.56
       }
     },
     {
@@ -1911,10 +1843,6 @@
           "speed_horizontal": 801.4,
           "speed_vertical": 0.0,
           "is_ground": false
-        },
-        "price": {
-          "currency": "USD",
-          "amount": 428.64
         }
       },
       "return_flight": {
@@ -1962,11 +1890,11 @@
           "icao": "A20N",
           "icao24": "6BB42F"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 434.97
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 725.74
       }
     },
     {
@@ -2015,11 +1943,7 @@
           "icao": "B788",
           "icao24": "EAAC8D"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 763.42
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-21",
@@ -2066,11 +1990,11 @@
           "icao": "B788",
           "icao24": "0D9DD1"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 739.66
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1014.84
       }
     },
     {
@@ -2126,11 +2050,7 @@
           "icao": "A321",
           "icao24": "359309"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 624.07
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-27",
@@ -2177,11 +2097,11 @@
           "icao": "A333",
           "icao24": "87449D"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 701.96
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1277.43
       }
     },
     {
@@ -2239,10 +2159,6 @@
           "speed_horizontal": 864.1,
           "speed_vertical": 0.0,
           "is_ground": false
-        },
-        "price": {
-          "currency": "USD",
-          "amount": 988.23
         }
       },
       "return_flight": {
@@ -2290,11 +2206,11 @@
           "icao": "B789",
           "icao24": "719CB6"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 791.62
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 2121.16
       }
     },
     {
@@ -2343,11 +2259,7 @@
           "icao": "A333",
           "icao24": "8A8806"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 890.86
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-25",
@@ -2394,11 +2306,11 @@
           "icao": "B789",
           "icao24": "DDCBD1"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 830.92
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1897.98
       }
     },
     {
@@ -2447,11 +2359,7 @@
           "icao": "B38M",
           "icao24": "BE8987"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 513.68
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-27",
@@ -2498,11 +2406,11 @@
           "icao": "B38M",
           "icao24": "E2F18F"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 459.02
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1311.65
       }
     },
     {
@@ -2551,11 +2459,7 @@
           "icao": "A321",
           "icao24": "4F309F"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 324.93
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-10-04",
@@ -2602,11 +2506,11 @@
           "icao": "A321",
           "icao24": "9CC967"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 272.04
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 501.97
       }
     },
     {
@@ -2662,11 +2566,7 @@
           "icao": "A20N",
           "icao24": "9D9136"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 79.89
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-22",
@@ -2713,11 +2613,11 @@
           "icao": "B738",
           "icao24": "1E6AEA"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 91.5
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 171.99
       }
     },
     {
@@ -2782,10 +2682,6 @@
           "speed_horizontal": 863.1,
           "speed_vertical": 0.0,
           "is_ground": false
-        },
-        "price": {
-          "currency": "USD",
-          "amount": 1340.35
         }
       },
       "return_flight": {
@@ -2833,11 +2729,11 @@
           "icao": "B789",
           "icao24": "787528"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 1115.88
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1636.42
       }
     },
     {
@@ -2895,10 +2791,6 @@
           "speed_horizontal": 882.8,
           "speed_vertical": 0.0,
           "is_ground": false
-        },
-        "price": {
-          "currency": "USD",
-          "amount": 1139.65
         }
       },
       "return_flight": {
@@ -2946,11 +2838,11 @@
           "icao": "A333",
           "icao24": "60B0A4"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 737.01
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 2110.13
       }
     },
     {
@@ -3008,10 +2900,6 @@
           "speed_horizontal": 450.0,
           "speed_vertical": 15.4,
           "is_ground": false
-        },
-        "price": {
-          "currency": "USD",
-          "amount": 1165.19
         }
       },
       "return_flight": {
@@ -3059,11 +2947,11 @@
           "icao": "B77W",
           "icao24": "E2799F"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 1091.41
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1965.02
       }
     },
     {
@@ -3121,10 +3009,6 @@
           "speed_horizontal": 897.8,
           "speed_vertical": 0.0,
           "is_ground": false
-        },
-        "price": {
-          "currency": "USD",
-          "amount": 934.44
         }
       },
       "return_flight": {
@@ -3172,11 +3056,11 @@
           "icao": "B788",
           "icao24": "59F3A0"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 1001.11
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1525.42
       }
     },
     {
@@ -3225,11 +3109,7 @@
           "icao": "B738",
           "icao24": "FCC4F1"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 835.59
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-10-01",
@@ -3276,11 +3156,11 @@
           "icao": "A20N",
           "icao24": "107E24"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 486.73
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 914.6
       }
     },
     {
@@ -3329,11 +3209,7 @@
           "icao": "A359",
           "icao24": "AF1279"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 991.9
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-24",
@@ -3380,11 +3256,11 @@
           "icao": "B789",
           "icao24": "8336FE"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 725.56
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 2053.19
       }
     },
     {
@@ -3440,11 +3316,7 @@
           "icao": "A321",
           "icao24": "F47E8E"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 661.57
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-10-02",
@@ -3491,11 +3363,11 @@
           "icao": "B738",
           "icao24": "1A1818"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 491.41
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 965.41
       }
     },
     {
@@ -3544,11 +3416,7 @@
           "icao": "B788",
           "icao24": "90C801"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 1071.09
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-26",
@@ -3602,11 +3470,11 @@
           "icao": "B789",
           "icao24": "9E1C32"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 1203.42
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1468.86
       }
     },
     {
@@ -3655,11 +3523,7 @@
           "icao": "B738",
           "icao24": "29AD56"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 848.62
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-23",
@@ -3706,11 +3570,11 @@
           "icao": "B38M",
           "icao24": "E29A10"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 741.88
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1278.99
       }
     },
     {
@@ -3759,11 +3623,7 @@
           "icao": "A359",
           "icao24": "CB2C08"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 869.94
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-26",
@@ -3817,11 +3677,11 @@
           "icao": "A359",
           "icao24": "6C4515"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 758.83
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1635.32
       }
     },
     {
@@ -3870,11 +3730,7 @@
           "icao": "A359",
           "icao24": "119F33"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 1118.41
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-29",
@@ -3921,11 +3777,11 @@
           "icao": "A333",
           "icao24": "66475E"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 967.04
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1925.43
       }
     },
     {
@@ -3983,10 +3839,6 @@
           "speed_horizontal": 871.7,
           "speed_vertical": 0.0,
           "is_ground": false
-        },
-        "price": {
-          "currency": "USD",
-          "amount": 895.44
         }
       },
       "return_flight": {
@@ -4034,11 +3886,11 @@
           "icao": "A359",
           "icao24": "B9854C"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 924.5
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1289.52
       }
     },
     {
@@ -4087,11 +3939,7 @@
           "icao": "B789",
           "icao24": "3040B7"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 740.64
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-26",
@@ -4138,11 +3986,11 @@
           "icao": "A359",
           "icao24": "F0663E"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 811.36
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1168.89
       }
     },
     {
@@ -4200,10 +4048,6 @@
           "speed_horizontal": 888.9,
           "speed_vertical": 0.0,
           "is_ground": false
-        },
-        "price": {
-          "currency": "USD",
-          "amount": 839.9
         }
       },
       "return_flight": {
@@ -4258,11 +4102,11 @@
           "icao": "A359",
           "icao24": "B8529D"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 1143.12
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 2000.47
       }
     },
     {
@@ -4320,10 +4164,6 @@
           "speed_horizontal": 854.3,
           "speed_vertical": 0.0,
           "is_ground": false
-        },
-        "price": {
-          "currency": "USD",
-          "amount": 822.28
         }
       },
       "return_flight": {
@@ -4371,11 +4211,11 @@
           "icao": "B789",
           "icao24": "014E8B"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 1199.86
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1949.24
       }
     },
     {
@@ -4440,10 +4280,6 @@
           "speed_horizontal": 764.3,
           "speed_vertical": -20.1,
           "is_ground": false
-        },
-        "price": {
-          "currency": "USD",
-          "amount": 1135.63
         }
       },
       "return_flight": {
@@ -4486,8 +4322,11 @@
           "codeshared": null
         },
         "aircraft": null,
-        "live": null,
-        "price": null
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 2382.84
       }
     },
     {
@@ -4536,11 +4375,7 @@
           "icao": "A20N",
           "icao24": "24026C"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 701.25
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-21",
@@ -4594,11 +4429,11 @@
           "icao": "B738",
           "icao24": "555F7D"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 498.08
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1141.65
       }
     },
     {
@@ -4656,10 +4491,6 @@
           "speed_horizontal": 801.8,
           "speed_vertical": 0.0,
           "is_ground": false
-        },
-        "price": {
-          "currency": "USD",
-          "amount": 445.63
         }
       },
       "return_flight": {
@@ -4707,11 +4538,11 @@
           "icao": "B788",
           "icao24": "A0A253"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 428.64
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 924.11
       }
     },
     {
@@ -4760,11 +4591,7 @@
           "icao": "A20N",
           "icao24": "DCD93C"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 295.03
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-26",
@@ -4811,11 +4638,11 @@
           "icao": "B788",
           "icao24": "BC99C9"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 396.34
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 649.29
       }
     },
     {
@@ -4864,11 +4691,7 @@
           "icao": "B788",
           "icao24": "BB4734"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 544.41
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-10-04",
@@ -4915,11 +4738,11 @@
           "icao": "B738",
           "icao24": "E1DDEA"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 676.81
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1170.33
       }
     },
     {
@@ -4968,11 +4791,7 @@
           "icao": "B788",
           "icao24": "1B29EE"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 244.94
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-10-02",
@@ -5019,11 +4838,11 @@
           "icao": "A321",
           "icao24": "6DB755"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 362.0
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 753.05
       }
     },
     {
@@ -5072,11 +4891,7 @@
           "icao": "B738",
           "icao24": "A2517E"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 523.99
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-22",
@@ -5123,11 +4938,11 @@
           "icao": "A333",
           "icao24": "6343CB"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 757.65
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 978.93
       }
     },
     {
@@ -5176,11 +4991,7 @@
           "icao": "E75L",
           "icao24": "B9C429"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 171.77
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-10-02",
@@ -5227,11 +5038,11 @@
           "icao": "A320",
           "icao24": "D561FA"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 203.44
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 270.13
       }
     },
     {
@@ -5280,11 +5091,7 @@
           "icao": "A359",
           "icao24": "931A4C"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 628.6
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-23",
@@ -5331,11 +5138,11 @@
           "icao": "A333",
           "icao24": "0DD78F"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 741.92
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1414.41
       }
     },
     {
@@ -5384,11 +5191,7 @@
           "icao": "BCS3",
           "icao24": "9CD564"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 234.41
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-10-02",
@@ -5435,11 +5238,11 @@
           "icao": "BCS3",
           "icao24": "B721D9"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 207.53
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 452.06
       }
     },
     {
@@ -5488,11 +5291,7 @@
           "icao": "B38M",
           "icao24": "7C2B70"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 458.02
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-10-03",
@@ -5539,11 +5338,11 @@
           "icao": "B38M",
           "icao24": "6CBF39"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 446.83
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 903.94
       }
     },
     {
@@ -5592,11 +5391,7 @@
           "icao": "A333",
           "icao24": "317DE2"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 579.83
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-26",
@@ -5643,11 +5438,11 @@
           "icao": "A333",
           "icao24": "9EB901"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 667.82
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 912.06
       }
     },
     {
@@ -5696,11 +5491,7 @@
           "icao": "A333",
           "icao24": "0CF1CB"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 942.47
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-30",
@@ -5747,11 +5538,11 @@
           "icao": "B77W",
           "icao24": "19DD08"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 1012.88
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1478.02
       }
     },
     {
@@ -5809,10 +5600,6 @@
           "speed_horizontal": 453.2,
           "speed_vertical": -12.4,
           "is_ground": false
-        },
-        "price": {
-          "currency": "USD",
-          "amount": 437.46
         }
       },
       "return_flight": {
@@ -5860,11 +5647,11 @@
           "icao": "B38M",
           "icao24": "EE623E"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 349.51
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 695.65
       }
     },
     {
@@ -5922,10 +5709,6 @@
           "speed_horizontal": 826.5,
           "speed_vertical": 0.0,
           "is_ground": false
-        },
-        "price": {
-          "currency": "USD",
-          "amount": 938.27
         }
       },
       "return_flight": {
@@ -5973,11 +5756,11 @@
           "icao": "B77W",
           "icao24": "577155"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 994.06
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1840.25
       }
     },
     {
@@ -6035,10 +5818,6 @@
           "speed_horizontal": 881.8,
           "speed_vertical": 0.0,
           "is_ground": false
-        },
-        "price": {
-          "currency": "USD",
-          "amount": 539.39
         }
       },
       "return_flight": {
@@ -6086,11 +5865,11 @@
           "icao": "A321",
           "icao24": "52E8E5"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 580.51
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 759.12
       }
     },
     {
@@ -6139,11 +5918,7 @@
           "icao": "A333",
           "icao24": "8E69F6"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 961.47
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-23",
@@ -6197,11 +5972,11 @@
           "icao": "A333",
           "icao24": "BF6AF9"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 988.04
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1795.26
       }
     },
     {
@@ -6250,11 +6025,7 @@
           "icao": "A320",
           "icao24": "47F0BB"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 259.29
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-23",
@@ -6301,11 +6072,11 @@
           "icao": "B738",
           "icao24": "7225BF"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 228.56
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 430.06
       }
     },
     {
@@ -6354,11 +6125,7 @@
           "icao": "E75L",
           "icao24": "4D1349"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 107.57
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-28",
@@ -6405,11 +6172,11 @@
           "icao": "A20N",
           "icao24": "FC18F4"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 118.05
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 203.92
       }
     },
     {
@@ -6467,10 +6234,6 @@
           "speed_horizontal": 868.9,
           "speed_vertical": 0.0,
           "is_ground": false
-        },
-        "price": {
-          "currency": "USD",
-          "amount": 495.74
         }
       },
       "return_flight": {
@@ -6518,11 +6281,11 @@
           "icao": "B788",
           "icao24": "1517E9"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 340.42
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 699.12
       }
     },
     {
@@ -6580,10 +6343,6 @@
           "speed_horizontal": 790.2,
           "speed_vertical": 0.0,
           "is_ground": false
-        },
-        "price": {
-          "currency": "USD",
-          "amount": 887.9
         }
       },
       "return_flight": {
@@ -6631,11 +6390,11 @@
           "icao": "B788",
           "icao24": "36FAE0"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 721.03
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1297.13
       }
     },
     {
@@ -6684,11 +6443,7 @@
           "icao": "B789",
           "icao24": "CE76B1"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 694.61
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-22",
@@ -6735,11 +6490,11 @@
           "icao": "A333",
           "icao24": "88515B"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 667.1
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1175.47
       }
     },
     {
@@ -6804,10 +6559,6 @@
           "speed_horizontal": 886.9,
           "speed_vertical": 0.0,
           "is_ground": false
-        },
-        "price": {
-          "currency": "USD",
-          "amount": 526.59
         }
       },
       "return_flight": {
@@ -6855,11 +6606,11 @@
           "icao": "A321",
           "icao24": "B849AE"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 585.28
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1028.27
       }
     },
     {
@@ -6908,11 +6659,7 @@
           "icao": "B738",
           "icao24": "3D90F8"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 290.03
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-22",
@@ -6959,11 +6706,11 @@
           "icao": "B38M",
           "icao24": "47959C"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 344.93
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 515.72
       }
     },
     {
@@ -7012,11 +6759,7 @@
           "icao": "B789",
           "icao24": "F146AF"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 898.32
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-23",
@@ -7063,11 +6806,11 @@
           "icao": "A359",
           "icao24": "BA8D29"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 572.87
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1264.84
       }
     },
     {
@@ -7116,11 +6859,7 @@
           "icao": "B789",
           "icao24": "AFB893"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 770.97
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-23",
@@ -7167,11 +6906,11 @@
           "icao": "A359",
           "icao24": "C429AB"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 504.65
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1044.22
       }
     },
     {
@@ -7229,10 +6968,6 @@
           "speed_horizontal": 791.1,
           "speed_vertical": 0.0,
           "is_ground": false
-        },
-        "price": {
-          "currency": "USD",
-          "amount": 831.78
         }
       },
       "return_flight": {
@@ -7280,11 +7015,11 @@
           "icao": "B77W",
           "icao24": "DD0784"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 936.22
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 2019.33
       }
     },
     {
@@ -7333,11 +7068,7 @@
           "icao": "A333",
           "icao24": "CF5910"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 1031.24
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-23",
@@ -7384,11 +7115,11 @@
           "icao": "B77W",
           "icao24": "464992"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 853.5
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1592.2
       }
     },
     {
@@ -7446,10 +7177,6 @@
           "speed_horizontal": 845.5,
           "speed_vertical": 0.0,
           "is_ground": false
-        },
-        "price": {
-          "currency": "USD",
-          "amount": 942.31
         }
       },
       "return_flight": {
@@ -7497,11 +7224,11 @@
           "icao": "A359",
           "icao24": "8EF108"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 1020.4
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1678.37
       }
     },
     {
@@ -7559,10 +7286,6 @@
           "speed_horizontal": 881.2,
           "speed_vertical": 0.0,
           "is_ground": false
-        },
-        "price": {
-          "currency": "USD",
-          "amount": 596.63
         }
       },
       "return_flight": {
@@ -7610,11 +7333,11 @@
           "icao": "B788",
           "icao24": "ED88B9"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 856.66
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1410.79
       }
     },
     {
@@ -7663,11 +7386,7 @@
           "icao": "A333",
           "icao24": "45AE36"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 1180.6
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-10-02",
@@ -7714,11 +7433,11 @@
           "icao": "B789",
           "icao24": "ABAE82"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 788.32
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 2344.68
       }
     },
     {
@@ -7767,11 +7486,7 @@
           "icao": "B788",
           "icao24": "12F19D"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 790.11
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-21",
@@ -7818,11 +7533,11 @@
           "icao": "B38M",
           "icao24": "A1F9C7"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 665.42
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1175.31
       }
     },
     {
@@ -7880,10 +7595,6 @@
           "speed_horizontal": 915.0,
           "speed_vertical": 0.0,
           "is_ground": false
-        },
-        "price": {
-          "currency": "USD",
-          "amount": 253.83
         }
       },
       "return_flight": {
@@ -7931,11 +7642,11 @@
           "icao": "B738",
           "icao24": "B697D4"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 213.31
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 384.39
       }
     },
     {
@@ -7991,11 +7702,7 @@
           "icao": "A333",
           "icao24": "7AA794"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 399.47
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-21",
@@ -8042,11 +7749,11 @@
           "icao": "B38M",
           "icao24": "D57CA7"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 340.49
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 713.71
       }
     },
     {
@@ -8104,10 +7811,6 @@
           "speed_horizontal": 786.6,
           "speed_vertical": 0.0,
           "is_ground": false
-        },
-        "price": {
-          "currency": "USD",
-          "amount": 1067.11
         }
       },
       "return_flight": {
@@ -8155,11 +7858,11 @@
           "icao": "A333",
           "icao24": "042BDB"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 1027.99
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1231.17
       }
     },
     {
@@ -8215,11 +7918,7 @@
           "icao": "B738",
           "icao24": "F76C7A"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 173.55
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-10-02",
@@ -8266,11 +7965,11 @@
           "icao": "B38M",
           "icao24": "789B06"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 179.53
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 288.13
       }
     },
     {
@@ -8319,11 +8018,7 @@
           "icao": "E75L",
           "icao24": "946A7C"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 123.41
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-27",
@@ -8370,11 +8065,11 @@
           "icao": "B38M",
           "icao24": "463F34"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 106.04
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 219.73
       }
     },
     {
@@ -8432,10 +8127,6 @@
           "speed_horizontal": 882.6,
           "speed_vertical": 0.0,
           "is_ground": false
-        },
-        "price": {
-          "currency": "USD",
-          "amount": 1266.66
         }
       },
       "return_flight": {
@@ -8483,11 +8174,11 @@
           "icao": "A333",
           "icao24": "9E0EF9"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 1538.29
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 2055.34
       }
     },
     {
@@ -8536,11 +8227,7 @@
           "icao": "A333",
           "icao24": "533476"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 670.95
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-10-03",
@@ -8594,11 +8281,11 @@
           "icao": "B789",
           "icao24": "518BC3"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 597.64
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 983.62
       }
     },
     {
@@ -8647,11 +8334,7 @@
           "icao": "B738",
           "icao24": "052FDA"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 589.32
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-25",
@@ -8698,11 +8381,11 @@
           "icao": "A20N",
           "icao24": "E8C38D"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 588.6
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 816.09
       }
     },
     {
@@ -8760,10 +8443,6 @@
           "speed_horizontal": 790.4,
           "speed_vertical": 0.0,
           "is_ground": false
-        },
-        "price": {
-          "currency": "USD",
-          "amount": 1348.53
         }
       },
       "return_flight": {
@@ -8811,11 +8490,11 @@
           "icao": "B77W",
           "icao24": "97D54C"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 1358.61
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 2501.01
       }
     },
     {
@@ -8871,11 +8550,7 @@
           "icao": "B788",
           "icao24": "CD5C29"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 751.75
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-29",
@@ -8922,11 +8597,11 @@
           "icao": "B77W",
           "icao24": "3246A7"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 639.22
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1701.16
       }
     },
     {
@@ -8984,10 +8659,6 @@
           "speed_horizontal": 780.7,
           "speed_vertical": 0.0,
           "is_ground": false
-        },
-        "price": {
-          "currency": "USD",
-          "amount": 524.42
         }
       },
       "return_flight": {
@@ -9035,11 +8706,11 @@
           "icao": "A333",
           "icao24": "E4332B"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 400.29
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 966.33
       }
     },
     {
@@ -9088,11 +8759,7 @@
           "icao": "B789",
           "icao24": "87F6E3"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 1214.06
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-28",
@@ -9139,11 +8806,11 @@
           "icao": "B788",
           "icao24": "088638"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 1189.05
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1473.45
       }
     },
     {
@@ -9192,11 +8859,7 @@
           "icao": "B38M",
           "icao24": "F7AC8C"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 348.41
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-22",
@@ -9243,11 +8906,11 @@
           "icao": "A20N",
           "icao24": "D990D2"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 348.1
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 562.48
       }
     },
     {
@@ -9303,11 +8966,7 @@
           "icao": "B788",
           "icao24": "4DC2EF"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 635.07
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-10-01",
@@ -9354,11 +9013,11 @@
           "icao": "A333",
           "icao24": "0CD375"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 573.16
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 876.94
       }
     },
     {
@@ -9407,11 +9066,7 @@
           "icao": "A333",
           "icao24": "877EBC"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 1021.49
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-30",
@@ -9458,11 +9113,11 @@
           "icao": "B789",
           "icao24": "E8FCFA"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 1103.34
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 2326.6
       }
     },
     {
@@ -9520,10 +9175,6 @@
           "speed_horizontal": 792.0,
           "speed_vertical": 0.0,
           "is_ground": false
-        },
-        "price": {
-          "currency": "USD",
-          "amount": 750.54
         }
       },
       "return_flight": {
@@ -9571,11 +9222,11 @@
           "icao": "B788",
           "icao24": "B37AE9"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 1199.78
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1583.33
       }
     },
     {
@@ -9624,11 +9275,7 @@
           "icao": "A333",
           "icao24": "235BA6"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 949.23
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-10-03",
@@ -9675,11 +9322,11 @@
           "icao": "A359",
           "icao24": "B4CB57"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 487.66
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1175.93
       }
     },
     {
@@ -9728,11 +9375,7 @@
           "icao": "B788",
           "icao24": "4CD4CD"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 630.33
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-26",
@@ -9779,11 +9422,11 @@
           "icao": "B789",
           "icao24": "71BA0F"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 805.33
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1336.3
       }
     },
     {
@@ -9832,11 +9475,7 @@
           "icao": "A333",
           "icao24": "F52079"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 709.54
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-23",
@@ -9883,11 +9522,11 @@
           "icao": "A359",
           "icao24": "087E4C"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 625.88
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1594.36
       }
     },
     {
@@ -9936,11 +9575,7 @@
           "icao": "B788",
           "icao24": "791E8B"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 578.13
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-10-01",
@@ -9987,11 +9622,11 @@
           "icao": "B738",
           "icao24": "797592"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 471.95
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 727.39
       }
     },
     {
@@ -10049,10 +9684,6 @@
           "speed_horizontal": 799.5,
           "speed_vertical": 0.0,
           "is_ground": false
-        },
-        "price": {
-          "currency": "USD",
-          "amount": 959.61
         }
       },
       "return_flight": {
@@ -10095,8 +9726,11 @@
           "codeshared": null
         },
         "aircraft": null,
-        "live": null,
-        "price": null
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1637.23
       }
     },
     {
@@ -10145,11 +9779,7 @@
           "icao": "A333",
           "icao24": "2EB2C6"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 360.13
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-10-03",
@@ -10196,11 +9826,11 @@
           "icao": "B38M",
           "icao24": "E67312"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 255.96
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 566.43
       }
     },
     {
@@ -10249,11 +9879,7 @@
           "icao": "B738",
           "icao24": "582B82"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 170.73
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-30",
@@ -10300,11 +9926,11 @@
           "icao": "B738",
           "icao24": "5FE3AE"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 155.16
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 382.14
       }
     },
     {
@@ -10362,10 +9988,6 @@
           "speed_horizontal": 495.1,
           "speed_vertical": 22.0,
           "is_ground": false
-        },
-        "price": {
-          "currency": "USD",
-          "amount": 1291.96
         }
       },
       "return_flight": {
@@ -10413,11 +10035,11 @@
           "icao": "B789",
           "icao24": "9ACF10"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 1466.46
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 2280.9
       }
     },
     {
@@ -10475,10 +10097,6 @@
           "speed_horizontal": 858.9,
           "speed_vertical": 0.0,
           "is_ground": false
-        },
-        "price": {
-          "currency": "USD",
-          "amount": 113.16
         }
       },
       "return_flight": {
@@ -10526,11 +10144,11 @@
           "icao": "BCS3",
           "icao24": "B0E8AC"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 119.62
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 176.36
       }
     },
     {
@@ -10579,11 +10197,7 @@
           "icao": "B789",
           "icao24": "BA4CDB"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 1419.55
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-25",
@@ -10630,11 +10244,11 @@
           "icao": "A359",
           "icao24": "260E05"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 1071.67
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 2666.38
       }
     },
     {
@@ -10683,11 +10297,7 @@
           "icao": "B788",
           "icao24": "829264"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 741.95
-        }
+        "live": null
       },
       "return_flight": {
         "flight_date": "2026-09-29",
@@ -10734,11 +10344,11 @@
           "icao": "B788",
           "icao24": "AF97BC"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 947.88
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1530.09
       }
     },
     {
@@ -10796,10 +10406,6 @@
           "speed_horizontal": 840.8,
           "speed_vertical": 0.0,
           "is_ground": false
-        },
-        "price": {
-          "currency": "USD",
-          "amount": 544.18
         }
       },
       "return_flight": {
@@ -10847,11 +10453,11 @@
           "icao": "B77W",
           "icao24": "9FE7D7"
         },
-        "live": null,
-        "price": {
-          "currency": "USD",
-          "amount": 684.08
-        }
+        "live": null
+      },
+      "price": {
+        "currency": "USD",
+        "amount": 1346.25
       }
     }
   ]
