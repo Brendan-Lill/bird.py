@@ -1,3 +1,5 @@
+import re
+
 def cityToCode(city):
     city = city.lower()
     city = re.sub(r'[^A-Za-z0-9]', '', city)
