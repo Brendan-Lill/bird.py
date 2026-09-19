@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 
 @app.route("/")
-def index():
+def home():
     return render_template("index.html")
 
 
@@ -25,13 +25,6 @@ def display_results():
 
     return render_template("search.html", results=results)
 
-
-def home():
-    return render_template("index.html")
-
-
-def hello():
-    return "hello"
 
 
 if __name__ == "__main__":
