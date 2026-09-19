@@ -1,4 +1,4 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, request
 
 app = Flask(__name__)
 
@@ -9,9 +9,11 @@ def index():
 
 
 
-@app.route("/search", methods="POST")
+@app.route("/search", methods=["POST"])
 def display_results():
     #the code added here will be used to get the data and send it to the frontend
+    print(request.args.get('from'))
+    print(request.args.get('to'))
     return render_template("search.html")
 
 
