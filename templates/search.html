@@ -10,5 +10,8 @@
 <body>
     <H1>DISPLAY SEARCH RESULTS HERE</H1>
      <script src="../static/js/script.js" defer></script>
+     <script>
+        const flightData = JSON.parse('{{ found_flights | tojson | safe }}');
+    </script>
 </body>
 </html>
