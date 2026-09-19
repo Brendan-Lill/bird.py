@@ -6,6 +6,8 @@
 ### Universal ###
 # Common files that should be ignored in all projects
 
+ven/
+
 # Logs
 *.log
 # Temporary files
@@ -204,7 +206,6 @@ __pycache__/
 *.pyo
 *.pyd
 .venv/
-.ven/
 
 instance/
 migrations/
