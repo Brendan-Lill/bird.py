@@ -66,7 +66,7 @@ function setupAutocomplete(inputId, listId) {
     renderList(filterAirports(input.value));
   });
 
-  // Keyboard navigation (optional but nice)
+  // Keyboard navigation
   input.addEventListener("keydown", (e) => {
     const items = list.querySelectorAll(".autocomplete-item");
     if (!list.classList.contains("active") || items.length === 0) return;
@@ -95,3 +95,24 @@ function setupAutocomplete(inputId, listId) {
 
 setupAutocomplete("filter1", "filter1List");
 setupAutocomplete("filter2", "filter2List");
+
+const searchBtn = document.getElementById("search");
+const city1 = document.getElementById("filter1");
+const city2 = document.getElementById("filter2");
+const date1 = document.getElementById("startDate");
+const date2 = document.getElementById("endDate");
+
+const fields = [city1, city2, date1, date2];
+
+function checkFields() {
+    if(city1.value !== '' && city2.value !== '' && (date1.value !== '' || date.valu !== '')){
+        searchBtn.style.backgroundColor = "#2fbfad";
+        searchBtn.disabled = false;
+    }
+}
+
+fields.forEach(field => {
+  if (field) {
+    field.addEventListener("input", checkFields);
+  }
+});
