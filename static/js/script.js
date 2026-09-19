@@ -95,3 +95,29 @@ function setupAutocomplete(inputId, listId) {
 
 setupAutocomplete("filter1", "filter1List");
 setupAutocomplete("filter2", "filter2List");
+// Sorts the ticket cards on the results page without a page reload.
+document.addEventListener("DOMContentLoaded", function () {
+  const sortButtons = document.querySelectorAll(".sort-button");
+  const ticketList = document.getElementById("ticketList");
+
+  if (!ticketList) return;
+
+  sortButtons.forEach(function (button) {
+    button.addEventListener("click", function () {
+      sortButtons.forEach(function (b) { b.classList.remove("active"); });
+      button.classList.add("active");
+
+      const key = button.dataset.sort; // "price" | "duration" | "departure"
+      const cards = Array.from(ticketList.querySelectorAll(".ticket-card"));
+
+      cards.sort(function (a, b) {
+        if (key === "departure") {
+          return a.dataset.departure.localeCompare(b.dataset.departure);
+        }
+        return parseFloat(a.dataset[key]) - parseFloat(b.dataset[key]);
+      });
+
+      cards.forEach(function (card) { ticketList.appendChild(card); });
+    });
+  });
+});
