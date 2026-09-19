@@ -123,3 +123,46 @@ body {
 .search-button:hover {
   background-color: #24998a;
 }
+
+.autocomplete-wrapper {
+  position: relative;
+  width: 140px;
+}
+
+.autocomplete-list {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  max-height: 220px;
+  overflow-y: auto;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  z-index: 10;
+  margin-top: 0.3rem;
+  text-align: left;
+}
+
+.autocomplete-list.active {
+  display: block;
+}
+
+.autocomplete-item {
+  padding: 0.6rem 0.8rem;
+  cursor: pointer;
+  font-size: 0.85rem;
+  color: #333;
+}
+
+.autocomplete-item:hover,
+.autocomplete-item.highlighted {
+  background-color: #f0f0f0;
+}
+
+.autocomplete-item .code {
+  font-weight: 700;
+  color: #2fbfad;
+  margin-right: 0.4rem;
+}
