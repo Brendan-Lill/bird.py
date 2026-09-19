@@ -6,6 +6,8 @@
 ### Universal ###
 # Common files that should be ignored in all projects
 
+ven/
+
 # Logs
 *.log
 # Temporary files
