@@ -63,41 +63,7 @@
       },
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T15:00:00+00:00",
-        "lowest_total": 949.66,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "K",
-            "base_fare": 790.41,
-            "taxes_and_fees": 159.25,
-            "total": 949.66,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 1
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1423.91,
-            "taxes_and_fees": 282.4,
-            "total": 1706.31,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 3132.03,
-            "taxes_and_fees": 614.45,
-            "total": 3746.48,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 949.66
       }
     },
     {
@@ -148,33 +114,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:30:00+00:00",
-        "lowest_total": 386.13,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "M",
-            "base_fare": 334.54,
-            "taxes_and_fees": 51.59,
-            "total": 386.13,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 0
-          },
-          "premium_economy": null,
-          "business": {
-            "fare_class": "J",
-            "base_fare": 884.27,
-            "taxes_and_fees": 127.16,
-            "total": 1011.43,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 385.77
       }
     },
     {
@@ -225,41 +165,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T14:44:00+00:00",
-        "lowest_total": 697.1,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "Y",
-            "base_fare": 546.6,
-            "taxes_and_fees": 150.5,
-            "total": 697.1,
-            "seats_available": 48,
-            "refundable": true,
-            "checked_bags_included": 0
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 899.72,
-            "taxes_and_fees": 244.1,
-            "total": 1143.82,
-            "seats_available": 7,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 2024.03,
-            "taxes_and_fees": 542.15,
-            "total": 2566.18,
-            "seats_available": 12,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 693.15
       }
     },
     {
@@ -310,41 +216,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T14:57:00+00:00",
-        "lowest_total": 377.68,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "M",
-            "base_fare": 337.09,
-            "taxes_and_fees": 40.59,
-            "total": 377.68,
-            "seats_available": 7,
-            "refundable": false,
-            "checked_bags_included": 0
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 558.22,
-            "taxes_and_fees": 63.55,
-            "total": 621.77,
-            "seats_available": 2,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 1293.39,
-            "taxes_and_fees": 139.87,
-            "total": 1433.26,
-            "seats_available": 2,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 440.43
       }
     },
     {
@@ -404,41 +276,7 @@
       },
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:50:00+00:00",
-        "lowest_total": 1684.21,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "B",
-            "base_fare": 1347.85,
-            "taxes_and_fees": 336.36,
-            "total": 1684.21,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 0
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 2194.6,
-            "taxes_and_fees": 544.15,
-            "total": 2738.75,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 5700.73,
-            "taxes_and_fees": 1404.55,
-            "total": 7105.28,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 1361.3
       }
     },
     {
@@ -489,41 +327,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T14:43:00+00:00",
-        "lowest_total": 865.68,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "V",
-            "base_fare": 702.75,
-            "taxes_and_fees": 162.93,
-            "total": 865.68,
-            "seats_available": 40,
-            "refundable": false,
-            "checked_bags_included": 0
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1134.97,
-            "taxes_and_fees": 259.7,
-            "total": 1394.67,
-            "seats_available": 5,
-            "refundable": false,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 2939.36,
-            "taxes_and_fees": 663.66,
-            "total": 3603.02,
-            "seats_available": 2,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 845.5
       }
     },
     {
@@ -583,41 +387,7 @@
       },
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:58:00+00:00",
-        "lowest_total": 1166.92,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "B",
-            "base_fare": 914.47,
-            "taxes_and_fees": 252.45,
-            "total": 1166.92,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 1
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1659.36,
-            "taxes_and_fees": 453.52,
-            "total": 2112.88,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 3999.21,
-            "taxes_and_fees": 1085.13,
-            "total": 5084.34,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 956.1
       }
     },
     {
@@ -668,33 +438,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:35:00+00:00",
-        "lowest_total": 172.64,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "B",
-            "base_fare": 144.95,
-            "taxes_and_fees": 27.69,
-            "total": 172.64,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 0
-          },
-          "premium_economy": null,
-          "business": {
-            "fare_class": "J",
-            "base_fare": 330.05,
-            "taxes_and_fees": 55.9,
-            "total": 385.95,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 185.34
       }
     },
     {
@@ -745,49 +489,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T14:57:00+00:00",
-        "lowest_total": 598.35,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "M",
-            "base_fare": 484.88,
-            "taxes_and_fees": 113.47,
-            "total": 598.35,
-            "seats_available": 4,
-            "refundable": false,
-            "checked_bags_included": 0
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 797.13,
-            "taxes_and_fees": 182.94,
-            "total": 980.07,
-            "seats_available": 12,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 2124.4,
-            "taxes_and_fees": 478.22,
-            "total": 2602.62,
-            "seats_available": 3,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": {
-            "fare_class": "F",
-            "base_fare": 2917.55,
-            "taxes_and_fees": 654.68,
-            "total": 3572.23,
-            "seats_available": 2,
-            "refundable": true,
-            "checked_bags_included": 3
-          }
-        }
+        "amount": 646.04
       }
     },
     {
@@ -838,41 +540,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T14:39:00+00:00",
-        "lowest_total": 1397.33,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "B",
-            "base_fare": 1092.64,
-            "taxes_and_fees": 304.69,
-            "total": 1397.33,
-            "seats_available": 43,
-            "refundable": true,
-            "checked_bags_included": 1
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 2029.22,
-            "taxes_and_fees": 561.07,
-            "total": 2590.29,
-            "seats_available": 11,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 3962.72,
-            "taxes_and_fees": 1090.33,
-            "total": 5053.05,
-            "seats_available": 6,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 927.01
       }
     },
     {
@@ -923,41 +591,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T14:30:00+00:00",
-        "lowest_total": 934.95,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "L",
-            "base_fare": 750.95,
-            "taxes_and_fees": 184.0,
-            "total": 934.95,
-            "seats_available": 41,
-            "refundable": false,
-            "checked_bags_included": 1
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1291.16,
-            "taxes_and_fees": 312.33,
-            "total": 1603.49,
-            "seats_available": 8,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 2810.25,
-            "taxes_and_fees": 673.21,
-            "total": 3483.46,
-            "seats_available": 6,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 1094.89
       }
     },
     {
@@ -1017,41 +651,7 @@
       },
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:59:00+00:00",
-        "lowest_total": 1124.12,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "L",
-            "base_fare": 924.4,
-            "taxes_and_fees": 199.72,
-            "total": 1124.12,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 0
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1694.4,
-            "taxes_and_fees": 361.41,
-            "total": 2055.81,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 3936.25,
-            "taxes_and_fees": 832.18,
-            "total": 4768.43,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 1476.56
       }
     },
     {
@@ -1111,41 +711,7 @@
       },
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:56:00+00:00",
-        "lowest_total": 1103.24,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "M",
-            "base_fare": 928.06,
-            "taxes_and_fees": 175.18,
-            "total": 1103.24,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 0
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1646.08,
-            "taxes_and_fees": 306.37,
-            "total": 1952.45,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 3437.49,
-            "taxes_and_fees": 633.7,
-            "total": 4071.19,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 1419.02
       }
     },
     {
@@ -1196,49 +762,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T14:42:00+00:00",
-        "lowest_total": 264.21,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "M",
-            "base_fare": 232.32,
-            "taxes_and_fees": 31.89,
-            "total": 264.21,
-            "seats_available": 25,
-            "refundable": false,
-            "checked_bags_included": 1
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 397.97,
-            "taxes_and_fees": 50.64,
-            "total": 448.61,
-            "seats_available": 2,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 906.26,
-            "taxes_and_fees": 108.16,
-            "total": 1014.42,
-            "seats_available": 10,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": {
-            "fare_class": "F",
-            "base_fare": 1518.96,
-            "taxes_and_fees": 177.5,
-            "total": 1696.46,
-            "seats_available": 4,
-            "refundable": true,
-            "checked_bags_included": 3
-          }
-        }
+        "amount": 271.2
       }
     },
     {
@@ -1289,25 +813,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T14:38:00+00:00",
-        "lowest_total": 130.56,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "Q",
-            "base_fare": 103.82,
-            "taxes_and_fees": 26.74,
-            "total": 130.56,
-            "seats_available": 61,
-            "refundable": false,
-            "checked_bags_included": 1
-          },
-          "premium_economy": null,
-          "business": null,
-          "first": null
-        }
+        "amount": 190.94
       }
     },
     {
@@ -1367,41 +873,7 @@
       },
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:45:00+00:00",
-        "lowest_total": 1132.13,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "K",
-            "base_fare": 894.47,
-            "taxes_and_fees": 237.66,
-            "total": 1132.13,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 0
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1619.88,
-            "taxes_and_fees": 425.85,
-            "total": 2045.73,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 3379.86,
-            "taxes_and_fees": 882.45,
-            "total": 4262.31,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 927.72
       }
     },
     {
@@ -1452,33 +924,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T14:51:00+00:00",
-        "lowest_total": 630.35,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "K",
-            "base_fare": 505.07,
-            "taxes_and_fees": 125.28,
-            "total": 630.35,
-            "seats_available": 38,
-            "refundable": false,
-            "checked_bags_included": 0
-          },
-          "premium_economy": null,
-          "business": {
-            "fare_class": "J",
-            "base_fare": 1293.66,
-            "taxes_and_fees": 312.13,
-            "total": 1605.79,
-            "seats_available": 14,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 575.46
       }
     },
     {
@@ -1545,33 +991,7 @@
       },
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:47:00+00:00",
-        "lowest_total": 595.37,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "Y",
-            "base_fare": 520.58,
-            "taxes_and_fees": 74.79,
-            "total": 595.37,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 0
-          },
-          "premium_economy": null,
-          "business": {
-            "fare_class": "J",
-            "base_fare": 1288.24,
-            "taxes_and_fees": 176.82,
-            "total": 1465.06,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 428.64
       }
     },
     {
@@ -1622,49 +1042,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:40:00+00:00",
-        "lowest_total": 713.78,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "V",
-            "base_fare": 572.26,
-            "taxes_and_fees": 141.52,
-            "total": 713.78,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 0
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1021.01,
-            "taxes_and_fees": 248.1,
-            "total": 1269.11,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 2392.64,
-            "taxes_and_fees": 573.88,
-            "total": 2966.52,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": {
-            "fare_class": "F",
-            "base_fare": 3860.23,
-            "taxes_and_fees": 922.44,
-            "total": 4782.67,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 3
-          }
-        }
+        "amount": 763.42
       }
     },
     {
@@ -1722,33 +1100,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:54:00+00:00",
-        "lowest_total": 511.03,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "Y",
-            "base_fare": 442.59,
-            "taxes_and_fees": 68.44,
-            "total": 511.03,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 0
-          },
-          "premium_economy": null,
-          "business": {
-            "fare_class": "J",
-            "base_fare": 1015.3,
-            "taxes_and_fees": 149.75,
-            "total": 1165.05,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 624.07
       }
     },
     {
@@ -1808,49 +1160,7 @@
       },
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:52:00+00:00",
-        "lowest_total": 1018.45,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "L",
-            "base_fare": 822.35,
-            "taxes_and_fees": 196.1,
-            "total": 1018.45,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 0
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1435.66,
-            "taxes_and_fees": 338.18,
-            "total": 1773.84,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 3155.99,
-            "taxes_and_fees": 736.71,
-            "total": 3892.7,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": {
-            "fare_class": "F",
-            "base_fare": 5298.26,
-            "taxes_and_fees": 1232.99,
-            "total": 6531.25,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 3
-          }
-        }
+        "amount": 988.23
       }
     },
     {
@@ -1901,49 +1211,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T14:51:00+00:00",
-        "lowest_total": 867.66,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "L",
-            "base_fare": 711.19,
-            "taxes_and_fees": 156.47,
-            "total": 867.66,
-            "seats_available": 46,
-            "refundable": false,
-            "checked_bags_included": 0
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1159.41,
-            "taxes_and_fees": 251.55,
-            "total": 1410.96,
-            "seats_available": 7,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 2746.04,
-            "taxes_and_fees": 588.13,
-            "total": 3334.17,
-            "seats_available": 6,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": {
-            "fare_class": "F",
-            "base_fare": 4596.4,
-            "taxes_and_fees": 980.66,
-            "total": 5577.06,
-            "seats_available": 2,
-            "refundable": true,
-            "checked_bags_included": 3
-          }
-        }
+        "amount": 890.86
       }
     },
     {
@@ -1994,33 +1262,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T14:35:00+00:00",
-        "lowest_total": 753.01,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "M",
-            "base_fare": 658.16,
-            "taxes_and_fees": 94.85,
-            "total": 753.01,
-            "seats_available": 23,
-            "refundable": false,
-            "checked_bags_included": 0
-          },
-          "premium_economy": null,
-          "business": {
-            "fare_class": "J",
-            "base_fare": 1547.65,
-            "taxes_and_fees": 215.47,
-            "total": 1763.12,
-            "seats_available": 4,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 513.68
       }
     },
     {
@@ -2071,33 +1313,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T14:52:00+00:00",
-        "lowest_total": 241.65,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "B",
-            "base_fare": 206.83,
-            "taxes_and_fees": 34.82,
-            "total": 241.65,
-            "seats_available": 75,
-            "refundable": true,
-            "checked_bags_included": 0
-          },
-          "premium_economy": null,
-          "business": {
-            "fare_class": "J",
-            "base_fare": 507.52,
-            "taxes_and_fees": 77.29,
-            "total": 584.81,
-            "seats_available": 6,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 324.93
       }
     },
     {
@@ -2155,25 +1371,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:34:00+00:00",
-        "lowest_total": 106.55,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "L",
-            "base_fare": 81.87,
-            "taxes_and_fees": 24.68,
-            "total": 106.55,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 0
-          },
-          "premium_economy": null,
-          "business": null,
-          "first": null
-        }
+        "amount": 79.89
       }
     },
     {
@@ -2240,41 +1438,7 @@
       },
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:57:00+00:00",
-        "lowest_total": 1344.65,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "V",
-            "base_fare": 1087.3,
-            "taxes_and_fees": 257.35,
-            "total": 1344.65,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 0
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1773.42,
-            "taxes_and_fees": 416.22,
-            "total": 2189.64,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 4350.15,
-            "taxes_and_fees": 1012.83,
-            "total": 5362.98,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 1340.35
       }
     },
     {
@@ -2334,41 +1498,7 @@
       },
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T15:00:00+00:00",
-        "lowest_total": 787.48,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "K",
-            "base_fare": 641.25,
-            "taxes_and_fees": 146.23,
-            "total": 787.48,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 1
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1147.51,
-            "taxes_and_fees": 257.26,
-            "total": 1404.77,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 2586.93,
-            "taxes_and_fees": 572.95,
-            "total": 3159.88,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 1139.65
       }
     },
     {
@@ -2428,41 +1558,7 @@
       },
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:43:00+00:00",
-        "lowest_total": 1102.11,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "L",
-            "base_fare": 868.98,
-            "taxes_and_fees": 233.13,
-            "total": 1102.11,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 0
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1564.23,
-            "taxes_and_fees": 415.16,
-            "total": 1979.39,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 3614.29,
-            "taxes_and_fees": 951.93,
-            "total": 4566.22,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 1165.19
       }
     },
     {
@@ -2522,41 +1618,7 @@
       },
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:50:00+00:00",
-        "lowest_total": 763.97,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "Q",
-            "base_fare": 632.7,
-            "taxes_and_fees": 131.27,
-            "total": 763.97,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 0
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1062.63,
-            "taxes_and_fees": 216.66,
-            "total": 1279.29,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 2322.55,
-            "taxes_and_fees": 466.91,
-            "total": 2789.46,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 934.44
       }
     },
     {
@@ -2607,33 +1669,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T14:40:00+00:00",
-        "lowest_total": 585.31,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "Y",
-            "base_fare": 521.18,
-            "taxes_and_fees": 64.13,
-            "total": 585.31,
-            "seats_available": 53,
-            "refundable": true,
-            "checked_bags_included": 0
-          },
-          "premium_economy": null,
-          "business": {
-            "fare_class": "J",
-            "base_fare": 1267.72,
-            "taxes_and_fees": 147.97,
-            "total": 1415.69,
-            "seats_available": 0,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 835.59
       }
     },
     {
@@ -2684,49 +1720,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T14:52:00+00:00",
-        "lowest_total": 998.24,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "V",
-            "base_fare": 833.84,
-            "taxes_and_fees": 164.4,
-            "total": 998.24,
-            "seats_available": 31,
-            "refundable": false,
-            "checked_bags_included": 0
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1344.79,
-            "taxes_and_fees": 261.7,
-            "total": 1606.49,
-            "seats_available": 1,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 3068.15,
-            "taxes_and_fees": 589.9,
-            "total": 3658.05,
-            "seats_available": 0,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": {
-            "fare_class": "F",
-            "base_fare": 5731.49,
-            "taxes_and_fees": 1097.11,
-            "total": 6828.6,
-            "seats_available": 1,
-            "refundable": true,
-            "checked_bags_included": 3
-          }
-        }
+        "amount": 991.9
       }
     },
     {
@@ -2784,33 +1778,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T14:30:00+00:00",
-        "lowest_total": 510.16,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "B",
-            "base_fare": 439.71,
-            "taxes_and_fees": 70.45,
-            "total": 510.16,
-            "seats_available": 62,
-            "refundable": true,
-            "checked_bags_included": 1
-          },
-          "premium_economy": null,
-          "business": {
-            "fare_class": "J",
-            "base_fare": 1143.2,
-            "taxes_and_fees": 174.19,
-            "total": 1317.39,
-            "seats_available": 13,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 661.57
       }
     },
     {
@@ -2861,41 +1829,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T14:44:00+00:00",
-        "lowest_total": 1211.16,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "K",
-            "base_fare": 967.26,
-            "taxes_and_fees": 243.9,
-            "total": 1211.16,
-            "seats_available": 75,
-            "refundable": false,
-            "checked_bags_included": 1
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1761.82,
-            "taxes_and_fees": 439.65,
-            "total": 2201.47,
-            "seats_available": 10,
-            "refundable": false,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 4126.55,
-            "taxes_and_fees": 1022.24,
-            "total": 5148.79,
-            "seats_available": 15,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 1071.09
       }
     },
     {
@@ -2946,33 +1880,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T14:46:00+00:00",
-        "lowest_total": 772.34,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "M",
-            "base_fare": 647.99,
-            "taxes_and_fees": 124.35,
-            "total": 772.34,
-            "seats_available": 14,
-            "refundable": false,
-            "checked_bags_included": 0
-          },
-          "premium_economy": null,
-          "business": {
-            "fare_class": "J",
-            "base_fare": 1450.04,
-            "taxes_and_fees": 271.33,
-            "total": 1721.37,
-            "seats_available": 2,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 848.62
       }
     },
     {
@@ -3023,41 +1931,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T14:56:00+00:00",
-        "lowest_total": 808.48,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "B",
-            "base_fare": 636.07,
-            "taxes_and_fees": 172.41,
-            "total": 808.48,
-            "seats_available": 29,
-            "refundable": true,
-            "checked_bags_included": 1
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1112.42,
-            "taxes_and_fees": 297.33,
-            "total": 1409.75,
-            "seats_available": 3,
-            "refundable": false,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 2449.21,
-            "taxes_and_fees": 647.91,
-            "total": 3097.12,
-            "seats_available": 3,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 869.94
       }
     },
     {
@@ -3108,41 +1982,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T15:00:00+00:00",
-        "lowest_total": 696.92,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "Q",
-            "base_fare": 582.31,
-            "taxes_and_fees": 114.61,
-            "total": 696.92,
-            "seats_available": 4,
-            "refundable": false,
-            "checked_bags_included": 1
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1050.48,
-            "taxes_and_fees": 202.26,
-            "total": 1252.74,
-            "seats_available": 10,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 2144.25,
-            "taxes_and_fees": 407.02,
-            "total": 2551.27,
-            "seats_available": 13,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 1118.41
       }
     },
     {
@@ -3202,49 +2042,7 @@
       },
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T15:00:00+00:00",
-        "lowest_total": 770.24,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "L",
-            "base_fare": 630.85,
-            "taxes_and_fees": 139.39,
-            "total": 770.24,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 1
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1112.13,
-            "taxes_and_fees": 241.46,
-            "total": 1353.59,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 2640.17,
-            "taxes_and_fees": 565.53,
-            "total": 3205.7,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": {
-            "fare_class": "F",
-            "base_fare": 3791.67,
-            "taxes_and_fees": 809.74,
-            "total": 4601.41,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 3
-          }
-        }
+        "amount": 895.44
       }
     },
     {
@@ -3295,41 +2093,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:51:00+00:00",
-        "lowest_total": 805.58,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "L",
-            "base_fare": 627.67,
-            "taxes_and_fees": 177.91,
-            "total": 805.58,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 0
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1071.4,
-            "taxes_and_fees": 299.72,
-            "total": 1371.12,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 2322.36,
-            "taxes_and_fees": 643.13,
-            "total": 2965.49,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 740.64
       }
     },
     {
@@ -3389,41 +2153,7 @@
       },
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:31:00+00:00",
-        "lowest_total": 1148.79,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "Q",
-            "base_fare": 962.19,
-            "taxes_and_fees": 186.6,
-            "total": 1148.79,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 0
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1696.05,
-            "taxes_and_fees": 324.65,
-            "total": 2020.7,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 3741.07,
-            "taxes_and_fees": 709.36,
-            "total": 4450.43,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 839.9
       }
     },
     {
@@ -3483,41 +2213,7 @@
       },
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:52:00+00:00",
-        "lowest_total": 861.24,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "Q",
-            "base_fare": 670.53,
-            "taxes_and_fees": 190.71,
-            "total": 861.24,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 1
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1158.26,
-            "taxes_and_fees": 325.36,
-            "total": 1483.62,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 2532.92,
-            "taxes_and_fees": 704.87,
-            "total": 3237.79,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 822.28
       }
     },
     {
@@ -3584,41 +2280,7 @@
       },
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:46:00+00:00",
-        "lowest_total": 900.36,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "L",
-            "base_fare": 751.77,
-            "taxes_and_fees": 148.59,
-            "total": 900.36,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 1
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1267.95,
-            "taxes_and_fees": 246.77,
-            "total": 1514.72,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 3078.25,
-            "taxes_and_fees": 591.09,
-            "total": 3669.34,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 1135.63
       }
     },
     {
@@ -3669,33 +2331,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T15:00:00+00:00",
-        "lowest_total": 697.29,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "Y",
-            "base_fare": 604.65,
-            "taxes_and_fees": 92.64,
-            "total": 697.29,
-            "seats_available": 51,
-            "refundable": true,
-            "checked_bags_included": 1
-          },
-          "premium_economy": null,
-          "business": {
-            "fare_class": "J",
-            "base_fare": 1589.82,
-            "taxes_and_fees": 234.45,
-            "total": 1824.27,
-            "seats_available": 1,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 701.25
       }
     },
     {
@@ -3755,41 +2391,7 @@
       },
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:44:00+00:00",
-        "lowest_total": 513.59,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "B",
-            "base_fare": 420.14,
-            "taxes_and_fees": 93.45,
-            "total": 513.59,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 0
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 716.31,
-            "taxes_and_fees": 155.37,
-            "total": 871.68,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 1620.05,
-            "taxes_and_fees": 344.33,
-            "total": 1964.38,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 445.63
       }
     },
     {
@@ -3840,33 +2442,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:50:00+00:00",
-        "lowest_total": 354.72,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "B",
-            "base_fare": 317.25,
-            "taxes_and_fees": 37.47,
-            "total": 354.72,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 0
-          },
-          "premium_economy": null,
-          "business": {
-            "fare_class": "J",
-            "base_fare": 737.59,
-            "taxes_and_fees": 79.7,
-            "total": 817.29,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 295.03
       }
     },
     {
@@ -3917,49 +2493,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T14:39:00+00:00",
-        "lowest_total": 496.48,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "M",
-            "base_fare": 446.03,
-            "taxes_and_fees": 50.45,
-            "total": 496.48,
-            "seats_available": 7,
-            "refundable": false,
-            "checked_bags_included": 0
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 754.69,
-            "taxes_and_fees": 81.48,
-            "total": 836.17,
-            "seats_available": 1,
-            "refundable": false,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 1767.15,
-            "taxes_and_fees": 183.28,
-            "total": 1950.43,
-            "seats_available": 10,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": {
-            "fare_class": "F",
-            "base_fare": 2968.06,
-            "taxes_and_fees": 304.02,
-            "total": 3272.08,
-            "seats_available": 0,
-            "refundable": true,
-            "checked_bags_included": 3
-          }
-        }
+        "amount": 544.41
       }
     },
     {
@@ -4010,41 +2544,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T14:40:00+00:00",
-        "lowest_total": 351.89,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "K",
-            "base_fare": 311.88,
-            "taxes_and_fees": 40.01,
-            "total": 351.89,
-            "seats_available": 21,
-            "refundable": false,
-            "checked_bags_included": 0
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 507.66,
-            "taxes_and_fees": 61.61,
-            "total": 569.27,
-            "seats_available": 11,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 1297.4,
-            "taxes_and_fees": 148.74,
-            "total": 1446.14,
-            "seats_available": 4,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 244.94
       }
     },
     {
@@ -4095,33 +2595,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T14:42:00+00:00",
-        "lowest_total": 624.11,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "K",
-            "base_fare": 551.12,
-            "taxes_and_fees": 72.99,
-            "total": 624.11,
-            "seats_available": 10,
-            "refundable": false,
-            "checked_bags_included": 1
-          },
-          "premium_economy": null,
-          "business": {
-            "fare_class": "J",
-            "base_fare": 1397.01,
-            "taxes_and_fees": 176.42,
-            "total": 1573.43,
-            "seats_available": 15,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 523.99
       }
     },
     {
@@ -4172,25 +2646,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:49:00+00:00",
-        "lowest_total": 125.47,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "K",
-            "base_fare": 100.5,
-            "taxes_and_fees": 24.97,
-            "total": 125.47,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 1
-          },
-          "premium_economy": null,
-          "business": null,
-          "first": null
-        }
+        "amount": 171.77
       }
     },
     {
@@ -4241,41 +2697,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T14:32:00+00:00",
-        "lowest_total": 617.64,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "K",
-            "base_fare": 492.55,
-            "taxes_and_fees": 125.09,
-            "total": 617.64,
-            "seats_available": 40,
-            "refundable": false,
-            "checked_bags_included": 1
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 911.85,
-            "taxes_and_fees": 226.82,
-            "total": 1138.67,
-            "seats_available": 0,
-            "refundable": false,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 1832.33,
-            "taxes_and_fees": 450.13,
-            "total": 2282.46,
-            "seats_available": 7,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 628.6
       }
     },
     {
@@ -4326,33 +2748,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T14:44:00+00:00",
-        "lowest_total": 233.32,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "K",
-            "base_fare": 201.02,
-            "taxes_and_fees": 32.3,
-            "total": 233.32,
-            "seats_available": 48,
-            "refundable": false,
-            "checked_bags_included": 0
-          },
-          "premium_economy": null,
-          "business": {
-            "fare_class": "J",
-            "base_fare": 475.82,
-            "taxes_and_fees": 68.79,
-            "total": 544.61,
-            "seats_available": 9,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 234.41
       }
     },
     {
@@ -4403,33 +2799,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T14:50:00+00:00",
-        "lowest_total": 456.71,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "M",
-            "base_fare": 398.14,
-            "taxes_and_fees": 58.57,
-            "total": 456.71,
-            "seats_available": 42,
-            "refundable": false,
-            "checked_bags_included": 1
-          },
-          "premium_economy": null,
-          "business": {
-            "fare_class": "J",
-            "base_fare": 921.46,
-            "taxes_and_fees": 128.2,
-            "total": 1049.66,
-            "seats_available": 7,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 458.02
       }
     },
     {
@@ -4480,49 +2850,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:51:00+00:00",
-        "lowest_total": 531.73,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "Q",
-            "base_fare": 470.92,
-            "taxes_and_fees": 60.81,
-            "total": 531.73,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 1
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 851.85,
-            "taxes_and_fees": 105.47,
-            "total": 957.32,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 1710.62,
-            "taxes_and_fees": 206.15,
-            "total": 1916.77,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": {
-            "fare_class": "F",
-            "base_fare": 2979.64,
-            "taxes_and_fees": 354.93,
-            "total": 3334.57,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 3
-          }
-        }
+        "amount": 579.83
       }
     },
     {
@@ -4573,41 +2901,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T14:31:00+00:00",
-        "lowest_total": 676.87,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "M",
-            "base_fare": 567.02,
-            "taxes_and_fees": 109.85,
-            "total": 676.87,
-            "seats_available": 7,
-            "refundable": false,
-            "checked_bags_included": 1
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 912.71,
-            "taxes_and_fees": 173.41,
-            "total": 1086.12,
-            "seats_available": 1,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 2149.22,
-            "taxes_and_fees": 400.76,
-            "total": 2549.98,
-            "seats_available": 4,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 942.47
       }
     },
     {
@@ -4667,33 +2961,7 @@
       },
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:44:00+00:00",
-        "lowest_total": 471.74,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "L",
-            "base_fare": 414.12,
-            "taxes_and_fees": 57.62,
-            "total": 471.74,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 0
-          },
-          "premium_economy": null,
-          "business": {
-            "fare_class": "J",
-            "base_fare": 928.05,
-            "taxes_and_fees": 122.17,
-            "total": 1050.22,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 437.46
       }
     },
     {
@@ -4753,41 +3021,7 @@
       },
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:41:00+00:00",
-        "lowest_total": 815.26,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "K",
-            "base_fare": 642.18,
-            "taxes_and_fees": 173.08,
-            "total": 815.26,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 0
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1178.63,
-            "taxes_and_fees": 312.98,
-            "total": 1491.61,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 2775.45,
-            "taxes_and_fees": 729.43,
-            "total": 3504.88,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 938.27
       }
     },
     {
@@ -4847,33 +3081,7 @@
       },
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:30:00+00:00",
-        "lowest_total": 474.24,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "Y",
-            "base_fare": 411.57,
-            "taxes_and_fees": 62.67,
-            "total": 474.24,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 1
-          },
-          "premium_economy": null,
-          "business": {
-            "fare_class": "J",
-            "base_fare": 1040.79,
-            "taxes_and_fees": 149.93,
-            "total": 1190.72,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 539.39
       }
     },
     {
@@ -4924,49 +3132,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T14:47:00+00:00",
-        "lowest_total": 1214.73,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "Y",
-            "base_fare": 998.3,
-            "taxes_and_fees": 216.43,
-            "total": 1214.73,
-            "seats_available": 78,
-            "refundable": true,
-            "checked_bags_included": 1
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1722.46,
-            "taxes_and_fees": 369.37,
-            "total": 2091.83,
-            "seats_available": 1,
-            "refundable": false,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 4198.15,
-            "taxes_and_fees": 892.22,
-            "total": 5090.37,
-            "seats_available": 1,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": {
-            "fare_class": "F",
-            "base_fare": 6372.89,
-            "taxes_and_fees": 1351.51,
-            "total": 7724.4,
-            "seats_available": 1,
-            "refundable": true,
-            "checked_bags_included": 3
-          }
-        }
+        "amount": 961.47
       }
     },
     {
@@ -5017,33 +3183,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:31:00+00:00",
-        "lowest_total": 235.41,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "Y",
-            "base_fare": 207.07,
-            "taxes_and_fees": 28.34,
-            "total": 235.41,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 0
-          },
-          "premium_economy": null,
-          "business": {
-            "fare_class": "J",
-            "base_fare": 548.28,
-            "taxes_and_fees": 65.81,
-            "total": 614.09,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 259.29
       }
     },
     {
@@ -5094,25 +3234,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:48:00+00:00",
-        "lowest_total": 123.04,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "Q",
-            "base_fare": 97.53,
-            "taxes_and_fees": 25.51,
-            "total": 123.04,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 1
-          },
-          "premium_economy": null,
-          "business": null,
-          "first": null
-        }
+        "amount": 107.57
       }
     },
     {
@@ -5172,41 +3294,7 @@
       },
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:32:00+00:00",
-        "lowest_total": 357.75,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "M",
-            "base_fare": 317.08,
-            "taxes_and_fees": 40.67,
-            "total": 357.75,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 0
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 518.5,
-            "taxes_and_fees": 62.94,
-            "total": 581.44,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 1353.31,
-            "taxes_and_fees": 155.27,
-            "total": 1508.58,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 495.74
       }
     },
     {
@@ -5266,49 +3354,7 @@
       },
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:37:00+00:00",
-        "lowest_total": 754.56,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "B",
-            "base_fare": 596.69,
-            "taxes_and_fees": 157.87,
-            "total": 754.56,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 1
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1003.04,
-            "taxes_and_fees": 261.56,
-            "total": 1264.6,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 2305.75,
-            "taxes_and_fees": 594.0,
-            "total": 2899.75,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": {
-            "fare_class": "F",
-            "base_fare": 4120.15,
-            "taxes_and_fees": 1057.01,
-            "total": 5177.16,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 3
-          }
-        }
+        "amount": 887.9
       }
     },
     {
@@ -5359,41 +3405,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:30:00+00:00",
-        "lowest_total": 740.09,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "M",
-            "base_fare": 603.99,
-            "taxes_and_fees": 136.1,
-            "total": 740.09,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 0
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1120.0,
-            "taxes_and_fees": 247.59,
-            "total": 1367.59,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 2337.57,
-            "taxes_and_fees": 510.66,
-            "total": 2848.23,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 694.61
       }
     },
     {
@@ -5460,41 +3472,7 @@
       },
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:55:00+00:00",
-        "lowest_total": 676.24,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "Y",
-            "base_fare": 597.54,
-            "taxes_and_fees": 78.7,
-            "total": 676.24,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 1
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1126.69,
-            "taxes_and_fees": 143.44,
-            "total": 1270.13,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 2549.84,
-            "taxes_and_fees": 317.55,
-            "total": 2867.39,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 526.59
       }
     },
     {
@@ -5545,33 +3523,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T14:59:00+00:00",
-        "lowest_total": 335.81,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "M",
-            "base_fare": 300.16,
-            "taxes_and_fees": 35.65,
-            "total": 335.81,
-            "seats_available": 14,
-            "refundable": false,
-            "checked_bags_included": 1
-          },
-          "premium_economy": null,
-          "business": {
-            "fare_class": "J",
-            "base_fare": 763.04,
-            "taxes_and_fees": 81.98,
-            "total": 845.02,
-            "seats_available": 16,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 290.03
       }
     },
     {
@@ -5622,41 +3574,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T14:30:00+00:00",
-        "lowest_total": 727.7,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "V",
-            "base_fare": 589.19,
-            "taxes_and_fees": 138.51,
-            "total": 727.7,
-            "seats_available": 79,
-            "refundable": false,
-            "checked_bags_included": 0
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1020.41,
-            "taxes_and_fees": 235.78,
-            "total": 1256.19,
-            "seats_available": 2,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 2235.84,
-            "taxes_and_fees": 509.96,
-            "total": 2745.8,
-            "seats_available": 8,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 898.32
       }
     },
     {
@@ -5707,41 +3625,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T15:00:00+00:00",
-        "lowest_total": 554.1,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "B",
-            "base_fare": 452.96,
-            "taxes_and_fees": 101.14,
-            "total": 554.1,
-            "seats_available": 62,
-            "refundable": true,
-            "checked_bags_included": 0
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 766.81,
-            "taxes_and_fees": 167.34,
-            "total": 934.15,
-            "seats_available": 5,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 1642.57,
-            "taxes_and_fees": 352.06,
-            "total": 1994.63,
-            "seats_available": 2,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 770.97
       }
     },
     {
@@ -5801,41 +3685,7 @@
       },
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:30:00+00:00",
-        "lowest_total": 1096.53,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "B",
-            "base_fare": 854.9,
-            "taxes_and_fees": 241.63,
-            "total": 1096.53,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 0
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1435.62,
-            "taxes_and_fees": 401.96,
-            "total": 1837.58,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 3674.45,
-            "taxes_and_fees": 1020.07,
-            "total": 4694.52,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 831.78
       }
     },
     {
@@ -5886,49 +3736,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T14:53:00+00:00",
-        "lowest_total": 1076.65,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "V",
-            "base_fare": 905.34,
-            "taxes_and_fees": 171.31,
-            "total": 1076.65,
-            "seats_available": 77,
-            "refundable": false,
-            "checked_bags_included": 1
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1614.47,
-            "taxes_and_fees": 301.11,
-            "total": 1915.58,
-            "seats_available": 8,
-            "refundable": false,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 3450.37,
-            "taxes_and_fees": 637.14,
-            "total": 4087.51,
-            "seats_available": 10,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": {
-            "fare_class": "F",
-            "base_fare": 5504.26,
-            "taxes_and_fees": 1013.08,
-            "total": 6517.34,
-            "seats_available": 0,
-            "refundable": true,
-            "checked_bags_included": 3
-          }
-        }
+        "amount": 1031.24
       }
     },
     {
@@ -5988,49 +3796,7 @@
       },
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:47:00+00:00",
-        "lowest_total": 1275.87,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "K",
-            "base_fare": 1057.41,
-            "taxes_and_fees": 218.46,
-            "total": 1275.87,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 1
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1922.24,
-            "taxes_and_fees": 392.56,
-            "total": 2314.8,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 3834.8,
-            "taxes_and_fees": 777.57,
-            "total": 4612.37,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": {
-            "fare_class": "F",
-            "base_fare": 6821.42,
-            "taxes_and_fees": 1378.8,
-            "total": 8200.22,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 3
-          }
-        }
+        "amount": 942.31
       }
     },
     {
@@ -6090,41 +3856,7 @@
       },
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:42:00+00:00",
-        "lowest_total": 622.69,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "K",
-            "base_fare": 520.22,
-            "taxes_and_fees": 102.47,
-            "total": 622.69,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 1
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 862.88,
-            "taxes_and_fees": 166.28,
-            "total": 1029.16,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 2041.08,
-            "taxes_and_fees": 385.67,
-            "total": 2426.75,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 596.63
       }
     },
     {
@@ -6175,41 +3907,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T14:37:00+00:00",
-        "lowest_total": 985.06,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "M",
-            "base_fare": 785.55,
-            "taxes_and_fees": 199.51,
-            "total": 985.06,
-            "seats_available": 49,
-            "refundable": false,
-            "checked_bags_included": 1
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1306.58,
-            "taxes_and_fees": 328.12,
-            "total": 1634.7,
-            "seats_available": 1,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 3340.56,
-            "taxes_and_fees": 830.21,
-            "total": 4170.77,
-            "seats_available": 3,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 1180.6
       }
     },
     {
@@ -6260,49 +3958,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:59:00+00:00",
-        "lowest_total": 469.44,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "B",
-            "base_fare": 370.07,
-            "taxes_and_fees": 99.37,
-            "total": 469.44,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 1
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 691.23,
-            "taxes_and_fees": 180.76,
-            "total": 871.99,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 1543.0,
-            "taxes_and_fees": 396.59,
-            "total": 1939.59,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": {
-            "fare_class": "F",
-            "base_fare": 2360.07,
-            "taxes_and_fees": 603.63,
-            "total": 2963.7,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 3
-          }
-        }
+        "amount": 790.11
       }
     },
     {
@@ -6362,33 +4018,7 @@
       },
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:52:00+00:00",
-        "lowest_total": 207.4,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "Y",
-            "base_fare": 181.21,
-            "taxes_and_fees": 26.19,
-            "total": 207.4,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 0
-          },
-          "premium_economy": null,
-          "business": {
-            "fare_class": "J",
-            "base_fare": 485.08,
-            "taxes_and_fees": 60.71,
-            "total": 545.79,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 253.83
       }
     },
     {
@@ -6446,41 +4076,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:54:00+00:00",
-        "lowest_total": 364.97,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "Q",
-            "base_fare": 318.66,
-            "taxes_and_fees": 46.31,
-            "total": 364.97,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 1
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 554.78,
-            "taxes_and_fees": 76.48,
-            "total": 631.26,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 1195.46,
-            "taxes_and_fees": 158.34,
-            "total": 1353.8,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 399.47
       }
     },
     {
@@ -6540,49 +4136,7 @@
       },
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:45:00+00:00",
-        "lowest_total": 978.43,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "M",
-            "base_fare": 785.6,
-            "taxes_and_fees": 192.83,
-            "total": 978.43,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 0
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1456.18,
-            "taxes_and_fees": 352.65,
-            "total": 1808.83,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 3274.22,
-            "taxes_and_fees": 785.94,
-            "total": 4060.16,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": {
-            "fare_class": "F",
-            "base_fare": 5012.18,
-            "taxes_and_fees": 1200.14,
-            "total": 6212.32,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 3
-          }
-        }
+        "amount": 1067.11
       }
     },
     {
@@ -6640,33 +4194,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T14:49:00+00:00",
-        "lowest_total": 200.22,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "L",
-            "base_fare": 168.49,
-            "taxes_and_fees": 31.73,
-            "total": 200.22,
-            "seats_available": 17,
-            "refundable": false,
-            "checked_bags_included": 0
-          },
-          "premium_economy": null,
-          "business": {
-            "fare_class": "J",
-            "base_fare": 453.94,
-            "taxes_and_fees": 75.99,
-            "total": 529.93,
-            "seats_available": 11,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 173.55
       }
     },
     {
@@ -6717,25 +4245,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T15:00:00+00:00",
-        "lowest_total": 115.31,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "B",
-            "base_fare": 96.54,
-            "taxes_and_fees": 18.77,
-            "total": 115.31,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 1
-          },
-          "premium_economy": null,
-          "business": null,
-          "first": null
-        }
+        "amount": 123.41
       }
     },
     {
@@ -6795,49 +4305,7 @@
       },
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:34:00+00:00",
-        "lowest_total": 1266.79,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "B",
-            "base_fare": 1045.87,
-            "taxes_and_fees": 220.92,
-            "total": 1266.79,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 1
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1909.27,
-            "taxes_and_fees": 398.68,
-            "total": 2307.95,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 4301.06,
-            "taxes_and_fees": 891.1,
-            "total": 5192.16,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": {
-            "fare_class": "F",
-            "base_fare": 6808.89,
-            "taxes_and_fees": 1407.42,
-            "total": 8216.31,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 3
-          }
-        }
+        "amount": 1266.66
       }
     },
     {
@@ -6888,49 +4356,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T14:50:00+00:00",
-        "lowest_total": 779.77,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "K",
-            "base_fare": 625.2,
-            "taxes_and_fees": 154.57,
-            "total": 779.77,
-            "seats_available": 12,
-            "refundable": false,
-            "checked_bags_included": 0
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1000.45,
-            "taxes_and_fees": 243.98,
-            "total": 1244.43,
-            "seats_available": 5,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 2564.83,
-            "taxes_and_fees": 616.73,
-            "total": 3181.56,
-            "seats_available": 7,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": {
-            "fare_class": "F",
-            "base_fare": 4068.8,
-            "taxes_and_fees": 975.09,
-            "total": 5043.89,
-            "seats_available": 2,
-            "refundable": true,
-            "checked_bags_included": 3
-          }
-        }
+        "amount": 670.95
       }
     },
     {
@@ -6981,33 +4407,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T14:49:00+00:00",
-        "lowest_total": 720.0,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "B",
-            "base_fare": 566.53,
-            "taxes_and_fees": 153.47,
-            "total": 720.0,
-            "seats_available": 3,
-            "refundable": true,
-            "checked_bags_included": 0
-          },
-          "premium_economy": null,
-          "business": {
-            "fare_class": "J",
-            "base_fare": 1500.61,
-            "taxes_and_fees": 397.26,
-            "total": 1897.87,
-            "seats_available": 15,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 589.32
       }
     },
     {
@@ -7067,41 +4467,7 @@
       },
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:42:00+00:00",
-        "lowest_total": 1306.99,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "V",
-            "base_fare": 1055.91,
-            "taxes_and_fees": 251.08,
-            "total": 1306.99,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 1
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1955.05,
-            "taxes_and_fees": 460.11,
-            "total": 2415.16,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 3882.93,
-            "taxes_and_fees": 908.31,
-            "total": 4791.24,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 1348.53
       }
     },
     {
@@ -7159,41 +4525,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T14:33:00+00:00",
-        "lowest_total": 783.73,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "Y",
-            "base_fare": 611.25,
-            "taxes_and_fees": 172.48,
-            "total": 783.73,
-            "seats_available": 35,
-            "refundable": true,
-            "checked_bags_included": 0
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1088.35,
-            "taxes_and_fees": 302.73,
-            "total": 1391.08,
-            "seats_available": 2,
-            "refundable": false,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 2506.58,
-            "taxes_and_fees": 689.92,
-            "total": 3196.5,
-            "seats_available": 3,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 751.75
       }
     },
     {
@@ -7253,33 +4585,7 @@
       },
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:39:00+00:00",
-        "lowest_total": 485.31,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "Y",
-            "base_fare": 431.48,
-            "taxes_and_fees": 53.83,
-            "total": 485.31,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 1
-          },
-          "premium_economy": null,
-          "business": {
-            "fare_class": "J",
-            "base_fare": 960.6,
-            "taxes_and_fees": 112.97,
-            "total": 1073.57,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 524.42
       }
     },
     {
@@ -7330,41 +4636,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T14:44:00+00:00",
-        "lowest_total": 1320.89,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "K",
-            "base_fare": 1061.05,
-            "taxes_and_fees": 259.84,
-            "total": 1320.89,
-            "seats_available": 0,
-            "refundable": false,
-            "checked_bags_included": 0
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1703.14,
-            "taxes_and_fees": 413.7,
-            "total": 2116.84,
-            "seats_available": 1,
-            "refundable": false,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 4192.59,
-            "taxes_and_fees": 1010.21,
-            "total": 5202.8,
-            "seats_available": 3,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 1214.06
       }
     },
     {
@@ -7415,33 +4687,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T14:55:00+00:00",
-        "lowest_total": 335.21,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "Y",
-            "base_fare": 289.83,
-            "taxes_and_fees": 45.38,
-            "total": 335.21,
-            "seats_available": 3,
-            "refundable": true,
-            "checked_bags_included": 0
-          },
-          "premium_economy": null,
-          "business": {
-            "fare_class": "J",
-            "base_fare": 643.25,
-            "taxes_and_fees": 93.88,
-            "total": 737.13,
-            "seats_available": 15,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 348.41
       }
     },
     {
@@ -7499,41 +4745,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T14:39:00+00:00",
-        "lowest_total": 458.34,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "M",
-            "base_fare": 404.89,
-            "taxes_and_fees": 53.45,
-            "total": 458.34,
-            "seats_available": 27,
-            "refundable": false,
-            "checked_bags_included": 1
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 658.26,
-            "taxes_and_fees": 83.4,
-            "total": 741.66,
-            "seats_available": 8,
-            "refundable": false,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 1544.25,
-            "taxes_and_fees": 188.11,
-            "total": 1732.36,
-            "seats_available": 5,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 635.07
       }
     },
     {
@@ -7584,41 +4796,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T14:31:00+00:00",
-        "lowest_total": 1096.98,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "Y",
-            "base_fare": 917.51,
-            "taxes_and_fees": 179.47,
-            "total": 1096.98,
-            "seats_available": 35,
-            "refundable": true,
-            "checked_bags_included": 1
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1596.79,
-            "taxes_and_fees": 308.19,
-            "total": 1904.98,
-            "seats_available": 6,
-            "refundable": false,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 3505.65,
-            "taxes_and_fees": 669.92,
-            "total": 4175.57,
-            "seats_available": 12,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 1021.49
       }
     },
     {
@@ -7678,41 +4856,7 @@
       },
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:46:00+00:00",
-        "lowest_total": 780.58,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "K",
-            "base_fare": 649.71,
-            "taxes_and_fees": 130.87,
-            "total": 780.58,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 1
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1048.33,
-            "taxes_and_fees": 207.72,
-            "total": 1256.05,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 2846.38,
-            "taxes_and_fees": 554.4,
-            "total": 3400.78,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 750.54
       }
     },
     {
@@ -7763,49 +4907,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T14:59:00+00:00",
-        "lowest_total": 968.18,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "K",
-            "base_fare": 778.71,
-            "taxes_and_fees": 189.47,
-            "total": 968.18,
-            "seats_available": 47,
-            "refundable": false,
-            "checked_bags_included": 0
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1253.91,
-            "taxes_and_fees": 301.67,
-            "total": 1555.58,
-            "seats_available": 5,
-            "refundable": false,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 2920.78,
-            "taxes_and_fees": 695.24,
-            "total": 3616.02,
-            "seats_available": 13,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": {
-            "fare_class": "F",
-            "base_fare": 4896.3,
-            "taxes_and_fees": 1161.7,
-            "total": 6058.0,
-            "seats_available": 4,
-            "refundable": true,
-            "checked_bags_included": 3
-          }
-        }
+        "amount": 949.23
       }
     },
     {
@@ -7856,41 +4958,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T14:32:00+00:00",
-        "lowest_total": 700.04,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "Q",
-            "base_fare": 543.86,
-            "taxes_and_fees": 156.18,
-            "total": 700.04,
-            "seats_available": 25,
-            "refundable": false,
-            "checked_bags_included": 0
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 965.53,
-            "taxes_and_fees": 272.92,
-            "total": 1238.45,
-            "seats_available": 6,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 2103.85,
-            "taxes_and_fees": 588.08,
-            "total": 2691.93,
-            "seats_available": 0,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 630.33
       }
     },
     {
@@ -7941,49 +5009,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T14:39:00+00:00",
-        "lowest_total": 854.73,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "Q",
-            "base_fare": 684.38,
-            "taxes_and_fees": 170.35,
-            "total": 854.73,
-            "seats_available": 56,
-            "refundable": false,
-            "checked_bags_included": 0
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1095.12,
-            "taxes_and_fees": 269.22,
-            "total": 1364.34,
-            "seats_available": 3,
-            "refundable": false,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 2476.26,
-            "taxes_and_fees": 601.69,
-            "total": 3077.95,
-            "seats_available": 2,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": {
-            "fare_class": "F",
-            "base_fare": 4627.36,
-            "taxes_and_fees": 1119.51,
-            "total": 5746.87,
-            "seats_available": 0,
-            "refundable": true,
-            "checked_bags_included": 3
-          }
-        }
+        "amount": 709.54
       }
     },
     {
@@ -8034,41 +5060,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:50:00+00:00",
-        "lowest_total": 402.17,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "L",
-            "base_fare": 350.59,
-            "taxes_and_fees": 51.58,
-            "total": 402.17,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 0
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 630.84,
-            "taxes_and_fees": 88.34,
-            "total": 719.18,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 1382.97,
-            "taxes_and_fees": 187.0,
-            "total": 1569.97,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 578.13
       }
     },
     {
@@ -8128,41 +5120,7 @@
       },
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:56:00+00:00",
-        "lowest_total": 933.09,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "K",
-            "base_fare": 742.83,
-            "taxes_and_fees": 190.26,
-            "total": 933.09,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 1
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1264.22,
-            "taxes_and_fees": 319.87,
-            "total": 1584.09,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 3045.74,
-            "taxes_and_fees": 762.75,
-            "total": 3808.49,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 959.61
       }
     },
     {
@@ -8213,41 +5171,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:36:00+00:00",
-        "lowest_total": 317.32,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "L",
-            "base_fare": 270.09,
-            "taxes_and_fees": 47.23,
-            "total": 317.32,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 0
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 466.96,
-            "taxes_and_fees": 77.57,
-            "total": 544.53,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 1093.71,
-            "taxes_and_fees": 174.18,
-            "total": 1267.89,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 360.13
       }
     },
     {
@@ -8298,25 +5222,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:57:00+00:00",
-        "lowest_total": 148.31,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "M",
-            "base_fare": 116.12,
-            "taxes_and_fees": 32.19,
-            "total": 148.31,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 1
-          },
-          "premium_economy": null,
-          "business": null,
-          "first": null
-        }
+        "amount": 170.73
       }
     },
     {
@@ -8376,41 +5282,7 @@
       },
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T15:00:00+00:00",
-        "lowest_total": 1322.97,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "L",
-            "base_fare": 1105.95,
-            "taxes_and_fees": 217.02,
-            "total": 1322.97,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 1
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 2035.47,
-            "taxes_and_fees": 394.7,
-            "total": 2430.17,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 4634.75,
-            "taxes_and_fees": 891.59,
-            "total": 5526.34,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 1291.96
       }
     },
     {
@@ -8470,25 +5342,7 @@
       },
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:38:00+00:00",
-        "lowest_total": 98.18,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "K",
-            "base_fare": 84.06,
-            "taxes_and_fees": 14.12,
-            "total": 98.18,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 1
-          },
-          "premium_economy": null,
-          "business": null,
-          "first": null
-        }
+        "amount": 113.16
       }
     },
     {
@@ -8539,41 +5393,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": true,
-        "last_updated": "2026-09-19T14:45:00+00:00",
-        "lowest_total": 1181.74,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "V",
-            "base_fare": 976.45,
-            "taxes_and_fees": 205.29,
-            "total": 1181.74,
-            "seats_available": 76,
-            "refundable": false,
-            "checked_bags_included": 1
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1673.78,
-            "taxes_and_fees": 347.9,
-            "total": 2021.68,
-            "seats_available": 8,
-            "refundable": false,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 3920.74,
-            "taxes_and_fees": 807.41,
-            "total": 4728.15,
-            "seats_available": 13,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 1419.55
       }
     },
     {
@@ -8624,41 +5444,7 @@
       "live": null,
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:53:00+00:00",
-        "lowest_total": 844.24,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "K",
-            "base_fare": 671.81,
-            "taxes_and_fees": 172.43,
-            "total": 844.24,
-            "seats_available": null,
-            "refundable": false,
-            "checked_bags_included": 0
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 1254.74,
-            "taxes_and_fees": 317.19,
-            "total": 1571.93,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 2583.83,
-            "taxes_and_fees": 647.23,
-            "total": 3231.06,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": null
-        }
+        "amount": 741.95
       }
     },
     {
@@ -8718,49 +5504,7 @@
       },
       "price": {
         "currency": "USD",
-        "trip_type": "one_way",
-        "bookable": false,
-        "last_updated": "2026-09-19T14:30:00+00:00",
-        "lowest_total": 558.34,
-        "lowest_cabin": "economy",
-        "fares": {
-          "economy": {
-            "fare_class": "Y",
-            "base_fare": 436.0,
-            "taxes_and_fees": 122.34,
-            "total": 558.34,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 1
-          },
-          "premium_economy": {
-            "fare_class": "W",
-            "base_fare": 731.0,
-            "taxes_and_fees": 201.33,
-            "total": 932.33,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "business": {
-            "fare_class": "J",
-            "base_fare": 1656.76,
-            "taxes_and_fees": 449.21,
-            "total": 2105.97,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 2
-          },
-          "first": {
-            "fare_class": "F",
-            "base_fare": 2816.8,
-            "taxes_and_fees": 759.83,
-            "total": 3576.63,
-            "seats_available": null,
-            "refundable": true,
-            "checked_bags_included": 3
-          }
-        }
+        "amount": 544.18
       }
     }
   ]
