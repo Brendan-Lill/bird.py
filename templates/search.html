@@ -1,40 +1,106 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Flight Search Results</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Search Results — Fly.py</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+<link rel="stylesheet" href="{{ url_for('static', filename='css/results.css') }}">
 </head>
 <body>
-    <h1>Flights from {{ from_city }} to {{ to_city }}</h1>
 
-    {% if results %}
-        <table border="1" cellpadding="8">
-            <tr>
-                <th>Flight</th>
-                <th>Airline</th>
-                <th>From</th>
-                <th>To</th>
-                <th>Departs</th>
-                <th>Arrives</th>
-                <th>Status</th>
-                <th>Price</th>
-            </tr>
-            {% for flight in results %}
-            <tr>
-                <td>{{ flight.flight.iata }}</td>
-                <td>{{ flight.airline.name }}</td>
-                <td>{{ flight.departure.airport }} ({{ flight.departure.iata }})</td>
-                <td>{{ flight.arrival.airport }} ({{ flight.arrival.iata }})</td>
-                <td>{{ flight.departure.scheduled }}</td>
-                <td>{{ flight.arrival.scheduled }}</td>
-                <td>{{ flight.flight_status }}</td>
-                <td>{{ flight.price.currency }} {{ "%.2f"|format(flight.price.amount) }}</td>
-            </tr>
-            {% endfor %}
-        </table>
-    {% else %}
-        <p>No flights found matching your search.</p>
-    {% endif %}
+<div class="headline-box results-headline">
+  <h1 class="page-title results-title">Fly with Fly.py!</h1>
+</div>
 
-    <a href="/">Search again</a>
+<div class="results-page">
+
+  <!-- Summary of what was searched, with a way back to modify it -->
+  <div class="search-summary">
+    <div class="summary-route">
+      <span class="summary-code">{{ search.from_city or "Anywhere" }}</span>
+      <span class="summary-arrow">&rarr;</span>
+      <span class="summary-code">{{ search.to_city or "Anywhere" }}</span>
+    </div>
+    <div class="summary-details">
+      {% if search.start_date or search.end_date %}
+        <span class="summary-chip">{{ search.start_date or "Any date" }} – {{ search.end_date or "Any date" }}</span>
+      {% endif %}
+      {% if search.min_budget or search.max_budget %}
+        <span class="summary-chip">${{ search.min_budget or 0 }} – ${{ search.max_budget or "&infin;" }}</span>
+      {% endif %}
+    </div>
+    <a href="/" class="modify-search-link">Modify search</a>
+  </div>
+
+  {% if flights %}
+
+  <div class="results-toolbar">
+    <span class="results-count">{{ flights|length }} flight{{ "s" if flights|length != 1 else "" }} found</span>
+    <div class="sort-group" role="group" aria-label="Sort results">
+      <span class="sort-label">Sort by</span>
+      <button type="button" class="sort-button active" data-sort="price">Price</button>
+      <button type="button" class="sort-button" data-sort="duration">Duration</button>
+      <button type="button" class="sort-button" data-sort="departure">Departure</button>
+    </div>
+  </div>
+
+  <div class="ticket-list" id="ticketList">
+    {% for flight in flights %}
+    <div class="ticket-card"
+         data-price="{{ flight.price }}"
+         data-duration="{{ flight.duration_minutes }}"
+         data-departure="{{ flight.departure_time }}">
+
+      <div class="ticket-main">
+        <div class="ticket-airline">
+          <span class="airline-dot"></span>
+          {{ flight.airline }} &middot; Flight {{ flight.flight_number }}
+        </div>
+
+        <div class="ticket-route">
+          <div class="route-point">
+            <span class="route-code">{{ flight.from_code }}</span>
+            <span class="route-time">{{ flight.departure_time }}</span>
+          </div>
+
+          <div class="route-path">
+            <span class="route-duration">{{ flight.duration }}</span>
+            <div class="route-line"><span class="plane-icon">&#9992;</span></div>
+            <span class="route-stops">{{ flight.stops or "Nonstop" }}</span>
+          </div>
+
+          <div class="route-point">
+            <span class="route-code">{{ flight.to_code }}</span>
+            <span class="route-time">{{ flight.arrival_time }}</span>
+          </div>
+        </div>
+
+        <div class="ticket-date">{{ flight.date }}</div>
+      </div>
+
+      <div class="ticket-stub">
+        <span class="ticket-price">${{ flight.price }}</span>
+        <button type="button" class="select-button">Select</button>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+
+  {% else %}
+
+  <div class="no-results">
+    <div class="no-results-icon">&#9992;</div>
+    <h2 class="no-results-title">No flights match that search</h2>
+    <p class="no-results-text">Try widening your budget, shifting your dates, or checking nearby airports.</p>
+    <a href="/" class="modify-search-button">Back to search</a>
+  </div>
+
+  {% endif %}
+
+</div>
+
+<script src="{{ url_for('static', filename='js/script.js') }}" defer></script>
+<script src="{{ url_for('static', filename='js/results.js') }}" defer></script>
 </body>
 </html>
