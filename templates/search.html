@@ -1,14 +1,40 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="../static/css/style.css">
-
+    <title>Flight Search Results</title>
 </head>
 <body>
-    <H1>DISPLAY SEARCH RESULTS HERE</H1>
-     <script src="../static/js/script.js" defer></script>
+    <h1>Flights from {{ from_city }} to {{ to_city }}</h1>
+
+    {% if results %}
+        <table border="1" cellpadding="8">
+            <tr>
+                <th>Flight</th>
+                <th>Airline</th>
+                <th>From</th>
+                <th>To</th>
+                <th>Departs</th>
+                <th>Arrives</th>
+                <th>Status</th>
+                <th>Price</th>
+            </tr>
+            {% for flight in results %}
+            <tr>
+                <td>{{ flight.flight.iata }}</td>
+                <td>{{ flight.airline.name }}</td>
+                <td>{{ flight.departure.airport }} ({{ flight.departure.iata }})</td>
+                <td>{{ flight.arrival.airport }} ({{ flight.arrival.iata }})</td>
+                <td>{{ flight.departure.scheduled }}</td>
+                <td>{{ flight.arrival.scheduled }}</td>
+                <td>{{ flight.flight_status }}</td>
+                <td>{{ flight.price.currency }} {{ "%.2f"|format(flight.price.amount) }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+    {% else %}
+        <p>No flights found matching your search.</p>
+    {% endif %}
+
+    <a href="/">Search again</a>
 </body>
 </html>
