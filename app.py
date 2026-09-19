@@ -15,6 +15,7 @@ def display_results():
     from_city = request.form.get("from_city", "")
     to_city = request.form.get("to_city", "")
     max_budget = request.form.get("max_budget", "")
+    min_budget = request.form.get("min_budget", "")
     start_date = request.form.get("start_date", "")
     end_date = request.form.get("end_date", "")
 
@@ -40,14 +41,25 @@ def display_results():
 
 
     found_flights = []
-    start_code = cityToCode(from_city)
-    end_code = cityToCode(to_city)
+
+    start_code = ""
+    end_code = ""
+
+    if from_city != "":
+        first = from_city.index('(')
+        second = from_city.index(')')
+        start_code = from_city[first + 1: second]
+
+    if to_city != "":
+        first = to_city.index('(')
+        second = to_city.index(')')
+        end_code = to_city[first + 1: second]
 
     for flight in flights['data']:
-        if from_city != "" and flight['departure']['iata'] != start_code:
+        if from_city != "" and flight['initial_flight']['departure']['iata'] != start_code:
             continue
 
-        if to_city != "" and flight['arrival']['iata'] != end_code:
+        if to_city != "" and flight['initial_flight']['arrival']['iata'] != end_code:
             continue
 
         if int(flight['price']['amount']) < int(min_budget) or int(flight['price']['amount']) > int(max_budget):
@@ -58,12 +70,20 @@ def display_results():
         user_date = {}
 
         if start_date != "":
-            flight_date = timestamp_data_extract(flight['departure']['scheduled'])
+            flight_date = timestamp_data_extract(flight['initial_flight']['departure']['scheduled'])
             user_date = date_encode(start_date)
-
-        if start_date != "":
             if flight_date['year'] != user_date['year'] or flight_date['month'] != user_date['month'] or flight_date['day'] != user_date['day']:
                 continue
+
+            
+
+        if end_date != "":
+            flight_date = timestamp_data_extract(flight['return_flight']['arrival']['scheduled'])
+            user_date = date_encode(end_date)
+            if flight_date['year'] != user_date['year'] or flight_date['month'] != user_date['month'] or flight_date['day'] != user_date['day']:
+                continue
+
+        
 
         
 
