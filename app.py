@@ -15,7 +15,7 @@ def display_results():
 
 
 
-@app.route("/search", methods="POST")
+@app.route("/search", methods=["POST"])
 def display_results():
     #the code added here will be used to get the data and send it to the frontend
     return render_template("search.html")
