@@ -19,28 +19,24 @@
   <div class="search-box">
 
     <div class="field-group">
-    <label for="filter1">From</label>
-    <div class="autocomplete-wrapper">
+      <label for="filter1">From</label>
+      <div class="autocomplete-wrapper">
         <input name="from_city" type="text" id="filter1" placeholder="e.g. Boston or BOS" autocomplete="off">
         <div class="autocomplete-list" id="filter1List"></div>
-    </div>
+      </div>
     </div>
 
     <div class="field-group">
-    <label for="filter2">To</label>
-    <div class="autocomplete-wrapper">
+      <label for="filter2">To</label>
+      <div class="autocomplete-wrapper">
         <input name="to_city" type="text" id="filter2" placeholder="e.g. Chicago or ORD" autocomplete="off">
         <div class="autocomplete-list" id="filter2List"></div>
-    </div>
+      </div>
     </div>
 
     <div class="field-group">
-      <label>Budget</label>
-      <div class="budget-inputs">
-        <input name="min_budget" type="number" id="minBudget" placeholder="Min" min="0">
-        <span class="budget-separator">–</span>
-        <input name="max_budget" type="number" id="maxBudget" placeholder="Max" min="0">
-      </div>
+      <label for="maxBudget">Max Budget</label>
+      <input name="max_budget" type="number" id="maxBudget" placeholder="e.g. 500" min="0">
     </div>
 
     <div class="field-group">
