@@ -204,7 +204,7 @@ __pycache__/
 *.pyo
 *.pyd
 .venv/
-ven/
+.ven/
 
 instance/
 migrations/
