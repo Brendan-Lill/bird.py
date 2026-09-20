@@ -5,19 +5,19 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Document</title>
 <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
-
+ 
 </head>
-<body>
+<body class="home">
 <div class="headline-box">
 <h1 class="page-title">Fly with Fly.py!</h1>
 </div>
-
+ 
 <div class="advanced-search-row">
-
+ 
 <form action="/search" method="post" class="search-form">
-
+ 
   <div class="search-box">
-
+ 
     <div class="field-group">
     <label for="filter1">From</label>
     <div class="autocomplete-wrapper">
@@ -25,7 +25,7 @@
         <div class="autocomplete-list" id="filter1List"></div>
     </div>
     </div>
-
+ 
     <div class="field-group">
     <label for="filter2">To</label>
     <div class="autocomplete-wrapper">
@@ -33,7 +33,7 @@
         <div class="autocomplete-list" id="filter2List"></div>
     </div>
     </div>
-
+ 
     <div class="field-group">
       <label>Budget</label>
       <div class="budget-inputs">
@@ -42,7 +42,7 @@
         <input name="max_budget" type="number" id="maxBudget" placeholder="Max" min="0">
       </div>
     </div>
-
+ 
     <div class="field-group">
       <label>Timeframe</label>
       <div class="timeframe-inputs">
@@ -51,13 +51,13 @@
         <input name="end_date" type="date" id="endDate">
       </div>
     </div>
-
+ 
   </div>
-
+ 
   <button type="submit" class="search-button" onclick=flyPlane()>SEARCH</button>
 </form>
 </div>
-
+ 
 <script src="{{ url_for('static', filename='js/script.js') }}" defer></script>
 </body>
 </html>

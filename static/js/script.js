@@ -57,42 +57,33 @@ function setupAutocomplete(inputId, listId) {
   }
 
   // Show full list on focus/click
-  if (input) {
-    input.addEventListener("focus", () => {
-      renderList(filterAirports(input.value));
-    });
-  }
-  
+  input.addEventListener("focus", () => {
+    renderList(filterAirports(input.value));
+  });
 
   // Filter as user types
-  if (input) {
-    input.addEventListener("input", () => {
-      renderList(filterAirports(input.value));
-    });
-  }
-  
+  input.addEventListener("input", () => {
+    renderList(filterAirports(input.value));
+  });
 
   // Keyboard navigation
-  if (input) {
-    input.addEventListener("keydown", (e) => {
-      const items = list.querySelectorAll(".autocomplete-item");
-      if (!list.classList.contains("active") || items.length === 0) return;
+  input.addEventListener("keydown", (e) => {
+    const items = list.querySelectorAll(".autocomplete-item");
+    if (!list.classList.contains("active") || items.length === 0) return;
 
-      if (e.key === "ArrowDown") {
-        e.preventDefault();
-        highlightedIndex = (highlightedIndex + 1) % items.length;
-        items.forEach((item, i) => item.classList.toggle("highlighted", i === highlightedIndex));
-      } else if (e.key === "ArrowUp") {
-        e.preventDefault();
-        highlightedIndex = (highlightedIndex - 1 + items.length) % items.length;
-        items.forEach((item, i) => item.classList.toggle("highlighted", i === highlightedIndex));
-      } else if (e.key === "Enter" && highlightedIndex >= 0) {
-        e.preventDefault();
-        items[highlightedIndex].click();
-      }
-    });
-  }
-  
+    if (e.key === "ArrowDown") {
+      e.preventDefault();
+      highlightedIndex = (highlightedIndex + 1) % items.length;
+      items.forEach((item, i) => item.classList.toggle("highlighted", i === highlightedIndex));
+    } else if (e.key === "ArrowUp") {
+      e.preventDefault();
+      highlightedIndex = (highlightedIndex - 1 + items.length) % items.length;
+      items.forEach((item, i) => item.classList.toggle("highlighted", i === highlightedIndex));
+    } else if (e.key === "Enter" && highlightedIndex >= 0) {
+      e.preventDefault();
+      items[highlightedIndex].click();
+    }
+  });
 
   // Close dropdown when clicking outside
   document.addEventListener("click", (e) => {
@@ -104,3 +95,17 @@ function setupAutocomplete(inputId, listId) {
 
 setupAutocomplete("filter1", "filter1List");
 setupAutocomplete("filter2", "filter2List");
+
+
+document.addEventListener('DOMContentLoaded', ()=> {
+  if (window.location.href.includes('search.html')) {
+    loadFlights();
+  }
+});
+
+const paragraph = document.getElementById("para");
+
+function loadFlights(){
+    const flightData = JSON.parse('{{ found_flights | tojson | safe }}');
+    paragraph.innerText = "AAAAAAAAAAAAAAAAA";
+}
