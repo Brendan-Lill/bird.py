@@ -29,7 +29,7 @@ def cityToCode(city):
     }
 
     if(city in convert):
-        return convert["city"]
+        return convert[city]
     else:
         return "error"
 
@@ -45,7 +45,7 @@ def timestamp_data_extract(time):
 
     date["year"] = time[:first_separator]
     date["month"] = months[int(time[first_separator + 1: second_separator]) - 1]
-    date["day"] = time[second_separator + 1: split]
+    date["day"] = str(int(time[second_separator + 1: split]))
 
     first_separator = time.index(':')
     second_separator = time.index(':', first_separator + 1)
@@ -54,3 +54,17 @@ def timestamp_data_extract(time):
     date["minute"] = str(int(time[first_separator + 1: second_separator]))
 
     return date    
+
+
+def date_encode(d):
+    months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+    date = {}
+
+    first_separator = d.index('-')
+    second_separator = d.index('-', first_separator + 1)
+
+    date["year"] = str(int(d[:first_separator]))
+    date["month"] = months[int(d[first_separator + 1: second_separator]) - 1]
+    date["day"] = str(int(d[second_separator + 1:]))
+
+    return date

@@ -3,12 +3,25 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Search Results</title>
     <link rel="stylesheet" href="../static/css/style.css">
-
+    <link rel="stylesheet" href="../static/css/searchStyle.css">
 </head>
 <body>
-    <H1>DISPLAY SEARCH RESULTS HERE</H1>
-     <script src="../static/js/script.js" defer></script>
+    <div class="headline-box">
+        <h1 class="page-title">Search Results</h1>
+    </div>
+ 
+    <div id="results"></div>
+ 
+    <div class="back-row back-row-bottom">
+        <a class="search-button" href="../">Search Again</a>
+    </div>
+ 
+    <script>
+        // Jinja fills this in on the server, so it has to live in the template, not in /static/js
+        const flightData = {{ found_flights | tojson }};
+    </script>
+    <script src="../static/js/searchScript.js" defer></script>
 </body>
 </html>
