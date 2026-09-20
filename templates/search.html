@@ -12,15 +12,22 @@
         <h1 class="page-title">Search Results</h1>
     </div>
  
+    <div class="back-row">
+        <a class="search-button" href="../index.html">Search Again</a>
+    </div>
+ 
     <div id="results"></div>
  
     <div class="back-row back-row-bottom">
-        <a class="search-button" href="../">Search Again</a>
+        <a class="search-button" href="../index.html">Search Again</a>
     </div>
  
     <script>
         // Jinja fills this in on the server, so it has to live in the template, not in /static/js
         const flightData = {{ found_flights | tojson }};
+        // Value of the "Sort results by" menu on the search page. Uses a sort_by passed from Python if there
+        // is one, otherwise reads it from the submitted form, and falls back to cheapest first.
+        const sortBy = {{ (sort_by or request.form.get('sort_by') or 'price_low') | tojson }};
     </script>
     <script src="../static/js/searchScript.js" defer></script>
 </body>

@@ -34,6 +34,26 @@ const AIRLINE_SITES = {
     NH: "https://www.ana.co.jp/en/us/",
 };
  
+// ---- sorting ---------------------------------------------------------------
+// Keys match the <option> values of the "Sort results by" menu on the search page.
+ 
+const tripPrice = (t) => t.price?.amount ?? Infinity;
+const legMinutes = (leg) => (new Date(leg.arrival.scheduled) - new Date(leg.departure.scheduled)) / 60000;
+const tripMinutes = (t) => legMinutes(t.initial_flight) + legMinutes(t.return_flight); // both flights
+ 
+const SORT_OPTIONS = {
+    price_low: { label: "Price: low to high",       compare: (a, b) => tripPrice(a) - tripPrice(b) },
+    duration:  { label: "Flight time: low to high", compare: (a, b) => tripMinutes(a) - tripMinutes(b) },
+    airline:   { label: "Airline (A–Z)",            compare: (a, b) => a.initial_flight.airline.name.localeCompare(b.initial_flight.airline.name) },
+};
+ 
+// Returns the trips in the chosen order (cheapest first is used to break ties)
+function sortTrips(trips, key) {
+    const option = SORT_OPTIONS[key] || SORT_OPTIONS.price_low;
+    const sorted = [...trips].sort((a, b) => option.compare(a, b) || tripPrice(a) - tripPrice(b));
+    return { label: option.label, trips: sorted };
+}
+ 
 // ---- helpers ---------------------------------------------------------------
  
 // Escape text before putting it into HTML
@@ -65,9 +85,13 @@ function fmtDate(iso, timeZone, opts = { weekday: "short", month: "short", day: 
     return new Intl.DateTimeFormat("en-US", { timeZone, ...opts }).format(new Date(iso));
 }
  
-function fmtDuration(depIso, arrIso) {
-    const mins = Math.round((new Date(arrIso) - new Date(depIso)) / 60000);
+function fmtMinutes(totalMinutes) {
+    const mins = Math.round(totalMinutes);
     return `${Math.floor(mins / 60)}h ${String(mins % 60).padStart(2, "0")}m`;
+}
+ 
+function fmtDuration(depIso, arrIso) {
+    return fmtMinutes((new Date(arrIso) - new Date(depIso)) / 60000);
 }
  
 // ---- rendering -------------------------------------------------------------
@@ -140,7 +164,7 @@ function renderTrip(trip) {
                 <div>
                     <h2 class="trip-route">${esc(out.departure.iata)} ⇄ ${esc(out.arrival.iata)}</h2>
                     <p class="trip-sub">${esc(out.departure.airport)} ⇄ ${esc(out.arrival.airport)}</p>
-                    <p class="trip-dates">${esc(dates)} · ${esc(out.airline.name)}</p>
+                    <p class="trip-dates">${esc(dates)} · ${esc(out.airline.name)} · ${esc(fmtMinutes(tripMinutes(trip)))} total flight time</p>
                 </div>
                 <div class="trip-price">${esc(formatMoney(trip.price))}<span>round trip · economy</span></div>
             </header>
@@ -153,16 +177,19 @@ function renderTrip(trip) {
 document.addEventListener("DOMContentLoaded", () => {
     const container = document.getElementById("results");
     const all = Array.isArray(flightData) ? flightData : (flightData?.data ?? []);
-    const trips = HIDE_CANCELLED
+    const available = HIDE_CANCELLED
         ? all.filter((t) => t.initial_flight.flight_status !== "cancelled" && t.return_flight.flight_status !== "cancelled")
         : all;
  
-    if (!trips.length) {
+    if (!available.length) {
         container.innerHTML = '<p class="results-empty">No flights found.</p>';
         return;
     }
  
+    // `sortBy` is defined in the HTML template; fall back to cheapest first if it's missing
+    const { label, trips } = sortTrips(available, typeof sortBy !== "undefined" ? sortBy : "price_low");
+ 
     container.innerHTML =
-        `<p class="results-count">${trips.length} trip${trips.length === 1 ? "" : "s"} found</p>` +
+        `<p class="results-count">${trips.length} trip${trips.length === 1 ? "" : "s"} found · sorted by ${esc(label)}</p>` +
         trips.map(renderTrip).join("");
 });
